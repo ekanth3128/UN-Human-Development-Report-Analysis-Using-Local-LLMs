@@ -1,0 +1,62 @@
+th
+degree recognition in Germany, the success rate is only two thirds,
+pointing at the problems with the quality of health education in Ser-
+bia. By 2017, there were 1,236 Serbian-trained physicians in Germany,
+and by 2020 the number of health professionals surpassed 1,500.
+Although these numbers are high and growing, and are undoubtedly a
+reason for concern, they should be looked at in conjunction with the data
+on the labour force in health sector residing in Serbia. The number of em-
+ployed physicians was slightly below or around 30,000 in late 2010s, while
+the number of unemployed physicians hovered above 2,000 and often
+close to 3,000 for most of that period. The number of unemployed dropped
+below 1,000 only after the Covid-19 outbreak. Similar trend was recorded
+for nurses. In other words, up until 2020 emigration of health workers did
+not interfere with the (excess) availability of health workforce at home.
+It is also worth reminding that the number of Serbians migrating into
+the EU for education reasons stagnated between 2,000 and 2,500
+throughout the past decade, meaning the share of total first-time res-
+idence permits issued for this reason steadily declined. Furthermore,
+according to the UNESCO statistics, the total number of Serbian stu-
+dents abroad was around 15,000 and was pretty stable over the 2013-
+2018 period (Wiiw-ETF, 2021). For comparison, this number was
+about the same as for Bosnia and Herzegovina and Albania, despite
+Serbia having at least double the number of inhabitants.
+The concept of brain drain implies that it is good if ‘best and bright-
+est’ do not leave their home country, and few would oppose that.
+However, if the brain drain is largely absent where it is expected, as
+the data discussed in Section 4 suggest, what might it tell about the
+Serbian labour market? If low- and medium-skilled workers are leav-
+ing Serbia in proportionally larger numbers, why is this so?
+Factors on demand (pull) side are important. There is a composition
+effect at least, with the rapidly growing NMS destinations in need of
+medium-VET skills. Gravity also helps, with countries pursuing high-
+skill immigration policy being mostly situated faraway in overseas
+destinations. The distance increases financial and psychological mi-
+gration costs for potential high-skilled Serbian migrants. Still, since
+the immigration rules in these ‘brain-importing’ countries did not
+change significantly, apparently there have been other reasons slow-
+ing down the inflow of Serbian immigrants there soon after 2000?
+Some answers were already provided in previous sections, but here
+we attempt to offer more explicit and coherent arguments. As already
+mentioned, Serbia has its migrant diaspora spread almost all over
+7 Labour Market Outcomes and Emigration
+Behaviour
+113
+C H A P T E R 4
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+57  https://www.worldbank.org/en/publication/human-capital
+58 Benefit amounts in Austria and Germany are around 100 EUR per child, without limits to the number of eligible children.
+the world, from Alaska to Australia, as the popular song line goes.
+Thus the question of migrant selectivity – that is, who would leave the
+country and who wouldn’t, as well as the destination selectivity – that
+is, where will those who leave go, should be better answered by turn-
+ing to the supply (push) side, which appears to be more interesting
+and salient for this type of analysis.
+The Roy model applied to migration analysis is a particularly useful
+framework (Roy, 1951). It implies that the selectivity of migrants and
+their sorting across destinations depends on cross-country differences
+in the returns to education. Simply put, if a sending country has a low-
+er income inequality, compressed wage distribution and low returns to
+education (all highly but not deterministically correlated), the emigra-
+tion rates for high-skilled will be higher than for low-skilled workers,
+and vice

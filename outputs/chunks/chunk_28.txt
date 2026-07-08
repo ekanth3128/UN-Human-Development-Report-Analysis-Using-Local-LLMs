@@ -1,0 +1,60 @@
+ of many demogra-
+phers and other analysts in terms of thinking about future fertility
+levels has been strongly influenced by the numerical values provided
+by the series of the widely used world population projections regular-
+ly produced by the UN Population Division since the 1960s. These
+projections reflected the dominant thinking at the time – that increas-
+es in life expectancy would level off with the survival curve becoming
+more and more rectangular but not shifting to the right and the fer-
+tility of all countries would converge to a “Total Fertility Rate” (or,
+“TFR”) of 2.1, the so-called replacement level of fertility, reflecting
+a new long-term equilibrium that would be reached. These assump-
+tions, together with the assumption of a future of little to no interna-
+tional migration, resulted in a demographic outlook where in the long
+run, after having gone through the turmoil of demographic transition,
+every population would be in a stable equilibrium with no countries
+shrinking or increasing. In the absence of any convincing alternative
+narrative about the future, this set of assumptions made sense and
+was also politically convenient in the context of the United Nations
+(“UN”) because no government needed to be afraid of a future in
+which their population would either shrink or grow indefinitely.
+However, in recent decades all three assumptions that led to this pre-
+dicted stability proved to be wrong. Life expectancy in an increasing
+number of countries surpassed the previously assumed upper limits
+(Oeppen and Vaupel, 2002), while migration has continued and even
+increased over time in some regions. Additionally, fertility rates –
+which are the most influential drivers of long-term demographic
+trends – continued to fall below replacement level in almost every
+country that has reached that threshold. As discussed in Section VI,
+the replacement level of 2.1 is a theoretical construction, so it is un-
+surprising it has no analogue in the real trends of any country, which
+do not miraculously stop their decline once reaching replacement
+level of 2.1, or other. As a consequence, most international population
+projections now assume a convergence of fertility levels at a lower
+level, such as a TFR of around 1.85 according to projections by the
+UN and the Wittgenstein Centre for Demography and Global Human
+Capital (the “Wittgenstein Centre”), a research institution focused on
+such topics (United Nations 2019; WIC 2019). A set of new global pop-
+ulation projections published in July 2020 by the Institute for Health
+Metrics and Evaluation assumes that ultimate fertility levels will be
+much lower, settling around 1.3 in most countries by the end of the
+century (Vollset et al., 2020). But such alternative numbers for a long-
+term post-transition fertility level are as arbitrary as the choice of 2.1
+because there is simply no theoretical or empirical basis for choosing
+an ultimate fertility level moving forward.
+An influential article in 2009, however, showed that for a certain time
+interval the TFR had a positive correlation with the Human Devel-
+opment Index (“HDI”), after reaching a minimum level (Myrskylä
+et al., 2009). This was taken as an indication that fertility would not
+stay at very low levels, but instead recover to some extent as social
+and economic development progressed. But the experience over the
+last decade contradicts that assumption. South Korea, which showed
+the most rapid progress in socio-economic development, had further
+declining TFRs, which in 2018 reached the lowest national level of
+any country at 0.98 children per woman and in 2019 even further de-
+creased to 0.92 children per woman. Some of the highly developed
+countries in Northern Europe that also used to have relatively high
+fertility, such as Finland and Norway, saw steep TFR declines over
+the past few years.
+Figure 2 summarises the most recent fertility trends in different parts
+of Europe and the United States. It clearly indicates a departure f

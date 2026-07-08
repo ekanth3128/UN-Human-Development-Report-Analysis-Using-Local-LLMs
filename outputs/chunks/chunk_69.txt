@@ -1,0 +1,326 @@
+65
+74,316
+51,309
+South Banat district
+272,975
+239,511
+211,965
+175,836
+148,954
+South Bačka district
+614,460
+590,240
+571,238
+545,449
+543,175
+North Banat district
+132,740
+110,783
+92,485
+71,806
+58,472
+North Bačka district
+175,424
+156,687
+141,428
+124,684
+114,848
+Central Banat district
+170,551
+142,059
+117,091
+86,718
+65,048
+Srem district
+292,796
+258,546
+229,550
+196,095
+177,029
+Zlatibor district
+259,215
+209,971
+162,252
+98,317
+55,385
+Kolubara district
+159,266
+135,861
+114,384
+88,440
+76,832
+Mačva district
+271,059
+224,192
+180,720
+126,273
+88,751
+Moravica district
+194,978
+166,123
+140,344
+109,056
+95,611
+Pomoravlje district
+190,944
+156,248
+131,740
+102,813
+84,053
+Rasina district
+216,195
+174,620
+137,122
+85,845
+52,257
+Raška district
+299,696
+276,000
+253,321
+217,575
+192,245
+Šumadija district
+276,190
+240,328
+214,525
+184,877
+171,512
+Bor district
+106,339
+75,854
+51,759
+23,317
+5,966
+Braničevo district
+158,834
+122,306
+94,084
+59,091
+35,431
+Zaječar district
+102,725
+77,107
+59,294
+39,416
+29,158
+Jablanica district
+193,830
+156,741
+122,994
+76,334
+41,747
+Nišava district
+354,436
+315,723
+290,731
+265,009
+260,779
+Pirot district
+81,513
+62,681
+48,004
+29,548
+17,458
+Podunavlje district
+179,891
+143,919
+112,104
+70,094
+39,433
+Pčinja district
+191,397
+165,781
+136,301
+91,646
+55,740
+Toplica district
+81,068
+64,657
+50,962
+33,286
+19,788
+Table 5. Total population of regions and districts in Serbia according to the baseline scenario26
+Source: own calculations
+26 All projected numbers presented in this section refer to the population at the end of the year.
+70
+C H A P T E R 2
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+On the other hand, the forecast decreasing pattern in the dependen-
+cy ratios at the national level after 2050 does not apply to all lower
+spatial levels. Out of 25 districts in Serbia, 9 would experience an in-
+crease in the ageing index, 12 in the share of the older population, 13
+in old age dependency ratio and 14 in total dependency ratio through-
+out the whole century . The majority of districts with increasing age-
+ing indicators refer to those with currently older population than in
+other districts and with prominent out-migration. When the whole
+projection period is considered, there would be only 7 districts with
+the ageing index lower than today by the end of this century and just
+one in case of old age dependency ratio. Yet, the increase of the in-
+dex would be lower than 15% in 7 districts, and higher than one third
+in 14 districts, of which 4 districts would experience double the cur-
+rent index value by 2100. Finally, 2 of 25 districts would have high-
+er number of the older population than the working age population
+already by 2050, and 8 districts by 2100, all of which located in the
+two south regions (Table 6). This suggests that sustainability of that
+area would be seriously endangered, which would also contribute to
+further deepening of the already big gap in terms of the development
+level between districts.
+Territory
+Share of people aged 65+
+Ageing index (65+/0-19)
+OADR (65+/20-64)
+TDR (0-19&65+/20-64)
+2020
+2035
+2050
+2100
+2020
+2035
+2050
+2100
+2020
+2035
+2050
+2100
+2020
+2035
+2050
+2100
+Republic of Serbia
+21.4
+23.7
+27.1
+24.0
+1.11
+1.25
+1.45
+1.15
+0.36
+0.41
+0.50
+0.43
+0.69
+0.74
+0.84
+0.81
+Serbia North
+20.3
+21.8
+25.4
+22.4
+1.03
+1.10
+1.30
+1.03
+0.34
+0.37
+0.46
+0.40
+0.67
+0.71
+0.81
+0.79
+Serbia South
+22.6
+25.9
+29.3
+27.4
+1.19
+1.44
+1.67
+1.43
+0.39
+0.46
+0.55
+0.51
+0.71
+0.78
+0.88
+0.87
+Vojvodina region
+20.4
+22.9
+25.9
+24.1
+1.04
+1.20
+1.37
+1.18
+0.34
+0.39
+0.47
+0.43
+0.66
+0.72
+0.81
+0.80
+Šumadija & West Serbia r.
+22.3
+26.0
+29.0
+26.3
+1.15
+1.42
+1.59
+1.33
+0.38
+0.47
+0.55
+0.49
+0.72
+0.80
+0.90
+0.86
+South & East Serbia region
+23.0
+25.7
+29.7
+29.2
+1.24
+1.47
+1.78
+1.62
+0.39
+0.45
+0.55
+0.56
+0.71
+0.76
+0.86
+0.90
+Belgrade region/district
+20.2
+20.7
+24.8
+21.2
+1.02
+1.00
+1.24
+0.94
+0.34
+0.35
+0.45
+0.38
+0.67
+0.71
+0.82
+0.78
+West Bačka district
+22.7
+26.5
+30.2
+30.9
+1.27
+1.59
+1.84
+1.83
+0.38
+0.47
+0.57
+0.59
+0.68
+0.76
+0.87
+0.91
+South Banat district
+21

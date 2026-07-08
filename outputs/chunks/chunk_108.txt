@@ -1,0 +1,192 @@
+d by less than 10%) according to Concept
+2. As a consequence, the flow-to-stock ratio exactly (Concept 1) or al-
+most (Concept 2) tripled.
+While all OMS in Table 2 have single-digit flow-to-stock ratios, and all
+of them, except for Germany, have the ratio below 5%,  all NMS have
+Country
+Flow
+Stock
+Flow as % of stock
+2010
+2019
+2010
+2019
+2010
+2019
+EU 28
+22,818
+62,190
+560,631
+504,143
+4.1%
+12.3%
+Czech Republic
+199
+3,609
+1,933
+5,592
+10.3%
+64.5%
+Germany
+3,327
+21,619
+290,092
+231,120
+1.1%
+9.4%
+France
+1,116
+1,196
+35,141
+27,149
+3.2%
+4.4%
+Croatia
+10,644
+10,193
+104.4%
+Italy
+6,631
+1,119
+61,027
+37,123
+10.9%
+3.0%
+Hungary
+1,226
+3,162
+18,080
+9,349
+6.8%
+33.8%
+Malta
+86
+1,840
+502
+6,481
+17.1%
+28.4%
+Austria
+3,577
+3,764
+111,708
+107,369
+3.2%
+3.5%
+Poland
+114
+730
+701
+1,015
+16.3%
+71.9%
+Slovenia
+1,040
+5,105
+8,273
+20,374
+12.6%
+25.1%
+Slovakia
+483
+4,290
+3,826
+15,842
+12.6%
+27.1%
+Sweden
+1,228
+1,436
+12,090
+9,272
+10.2%
+15.5%
+Switzerland
+1,053
+60,595
+1.7%
+Table 2. Inflows / Stocks (Concept 1) 2010-2019                           Legend: Flow as % of stock: Yellow – less than 9%; light green – 9-25%, green – 25% and more
+Source: Eurostat
+these ratios above 25%, and in an extreme case of Croatia the ratio is
+104%, suggesting that Serbian immigrants to Croatia registered for
+the first time in 2019 had the expected average duration of migration
+spell of less than a year.
+In most countries, except Italy and Switzerland, the flow to stock ratio
+increased between 2010 and 2019, implying the shortening of expect-
+ed duration of migration spell of new migrants. However, the mag-
+nitude of change was very different. While in OMS, except for Ger-
+many, on the positive and Italy on the negative side the change was
+moderate, in NMS the flow to stock ratios were two to six times larger.
+These trends partially reflect the maturity of destinations – old des-
+tinations have larger stocks and lower flow to stocks ratios, while the
+opposite is true for new destinations. However, much faster growth of
+flow to stock ratios in NMS (except for Germany where the ratio grew
+the most) suggests that the dominant reasons for migration to NMS
+and Germany might be different compared with OMS.
+This hypothesis can be checked by looking at country statistics on
+the reasons for the issuance of residence permits for the first-time
+106
+C H A P T E R 4
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+Reason
+2010
+2015
+2016
+2017
+2018
+2019
+Total
+22,818
+27,195
+31,289
+40,350
+51,942
+62,190
+Family reunion
+9,699
+13,140
+12,799
+13,681
+15,448
+15,667
+Education
+2,129
+2,384
+2,381
+2,478
+2,477
+2,340
+Remunerated activities
+6,719
+6,496
+9,358
+17,333
+27,383
+32,639
+Other
+4,271
+5,175
+6,751
+6,858
+6,634
+11,544
+Table 3. Reasons for the issuance of first-time residence permits to Serbian nationals in the EU-28
+Source: Eurostat
+migrants from Serbia, available at Eurostat, as presented in Table 3.
+The most dynamic growth has been recorded for the remunerated ac-
+tivities (Table 3). For most of the period between 2010 and 2019, family
+reunion was the most frequent reason (until 2017). While it constitut-
+ed almost 43% of total permits given in 2010, it was reduced to 25% in
+2019. Family reunion visas do not preclude migrants from working and
+also represent a track for possible naturalisation but they do imply lower
+activity rates. On the other hand, migrations for work more than tripled
+between 2016 and 2019 and in 2019 they represented 52.5% of all first
+residence permits issued (up from 29% in 2010), and were more than
+twice as large as first-time residence visas issued for family reunions.
+Table 4 focuses on the evolution of ratios of work to family reunion
+reasons for issuing first-time visas by destination countries. Switzer-
+land is also included.
+The issuance of work permits is far more frequent in the NMS, while
+family-related residence visas are the dominant category for Serbian
+migrants in the OMS (Table 4). Overall, the OMS destinations show
+stagnating or mildly 

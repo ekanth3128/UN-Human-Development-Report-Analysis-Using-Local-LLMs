@@ -1,0 +1,125 @@
+O
+LT
+SK
+CZ
+SK
+BE
+PL
+DK
+IE
+NL
+EE
+EL
+AT
+MT
+LU
+FI
+DE
+SE
+PT
+SI
+IT
+ES
+CY
+FR
+Men
+Women
+Figure 4. Old-age dependency ratio, Serbia and EU-28, 2019
+Source: Eurostat, code demo_pjanind
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+EU-28
+LU
+IE
+SK
+CY
+PL
+MT
+AT
+RO
+HU
+UK
+ES
+BE
+CZ
+NL
+SI
+LZ
+EE
+DK
+RS
+LV
+HR
+SE
+BG
+DE
+FR
+PT
+EL
+FI
+IT
+thousand people left between the population censuses of 2002 and
+2011 (Penev, 2015:141).
+Ageing is associated with extending not only healthy life years, but
+also life years with disability. A slower increase in health-adjusted life
+expectancy (HALE)123 than an increase in life expectancy, indicating
+more years spent in poor health, is particularly relevant for long-term
+care policies and health care expenditures. According to WHO (2021)
+data, in Serbia in 2019, health-adjusted life expectancy at birth stood
+at 65 years for men and 68 for women – between 8 and 10 years be-
+low life expectancy. HALE for women is lower in Serbia than in any
+EU country, while for men it is among the lowest (Figure 3). Further
+122 See also Arandarenko, 2021.
+123 WHO definition: Average number of years that a person can expect to live in ‘full health’ by taking into account years lived in less than full health due to disease and/or
+injury.
+167
+C H A P T E R 7
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+increase of HALE is essential not only to ensure the sustainability of
+health expenditures, but also to improve the quality of life.
+Ageing also led to a rise in the old-age dependency ratio, which shows
+the number of old people (65+) per 100 working-age people (20–64)
+and, in fact, indicates the country’s potential to face the economic con-
+sequences of ageing. According to 2019 data, this ratio stood at 33.9% in
+Serbia and corresponded to the EU-28 average (33.8%) (Figure 4). The
+dependency ratio has grown over time and, based on population pro-
+jections, is expected to reach a remarkably high 42.3% in 2041 (Table 1).
+Serbia’s prospective old-age dependency ratio suggests a lower ‘bur-
+den’ on the labour force. It is the ratio of old people with a life ex-
+pectancy below 15 years to the population aged between 20 and the
+prospective threshold. Serbia’s prospective threshold in 2041 is esti-
+mated at 68 years,124 and the prospective old-age dependency ratio –
+at 31.0%.125 This is more than 10 percentage points below the conven-
+tional old-age dependency ratio (Table 1) indicating more successful
+response to the consequences of population ageing.126
+The economic consequences of ageing are analysed in the context of
+rising consumption and declining savings in the later stages of the life
+cycle, shrinking and ageing of the labour force and potential deceler-
+ation of labour productivity growth. Another area in focus is public
+finance sustainability.
+The empirical findings on the impact of ageing on economic growth
+are not conclusive. Bloom et al. (2011) show that the negative ‘ac-
+counting’ effects of population ageing on growth owing to life-cycle
+differences in consumption, savings and economic activity may be
+compensated for by taking into account behavioural changes – longer
+working lifespans owing to improved health conditions, increase in
+savings for old age and investment in human capital. Additional em-
+phasis is placed on policies to encourage behavioural change, as well
+as promotion of immigration.
+Using the OLG model,127 Bussolo, Koettl & Sinnott (2015) show that
+reduced fertility entails a shrinking population and smaller output,
+while increased longevity results in larger population and larger
+economy, with both scenarios having a medium-term positive impact
+on GDP per capita, which returns to the steady state in the long term.
+Lee & Mason (2006) argue that population ageing allows space for
+the ‘second demographic dividend’, as a result of incentives to ensure
+substantial accumulation of assets with a view to security in old age.128
+According to some authors, if older persons rely on publ

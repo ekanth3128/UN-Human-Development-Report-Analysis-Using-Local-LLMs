@@ -1,0 +1,208 @@
+nces that contribute to higher mortality, de-
+pending on the length and severity of the crisis. With respect to fertil-
+ity, the impacts are even more speculative. There may be two compet-
+ing forces: one leading to higher fertility due to strengthening family
+bonds and more time spent together at home, and the other leading
+to lower fertility as a consequence of economic uncertainty and fears
+about the future. To see which of the effects dominates, we will have
+to be patient for at least nine months after the beginning of the lock-
+down efforts and review the available data at that point in time.
+There may be other lasting effects of COVID-19 on the social and
+economic development of Serbia in particular, and other countries in
+the region, particularly in the field of migration and possibly on the
+education system, both relevant for an assessment of future human
+capital. Greater emphasis by countries on epidemiological safety and
+economic recovery is likely to keep international travel and labour
+migration at lower levels, at least in the short-term. Initial political
+responses continue to evolve, but some have reflected a view that the
+COVID-19 outbreak and secondary effects will force a larger reas-
+sessment of how interconnected states remain, including migration
+regimes and the Schengen area in Europe. Although it is too early now
+to make definitive statements about such potential impacts, we will
+address some of these questions in the following sections.
+3  Migration, Ageing, and National Population
+Dynamics
+Migration is the third factor of population change in addition to fertil-
+ity and mortality. Regardless of a birth deficit (i.e. more deaths than
+births) populations can either grow or reduce in size depending on
+migration rates. In Germany for example, the resident population has
+continued to expand in spite of natural conditions for it to reduce in
+number; this has been due to migration, with Germany prominently
+taking migrants from other EU member states. It is hence interesting
+to disentangle the effects of natural population growth and of migra-
+tion on future population size.
+Table 2 presents population comparisons and projections (both
+accounting for migration, and excluding migration) for all Euro-
+pean countries as well as a number of East Asian countries which
+are also expected to shrink based on recent scenario projections by
+European Commission (“EC”) and the International Association
+for Applied Systems Analysis (“IIASA”) (Lutz et al., 2018) (with Ser-
+bia and other neighbouring Balkan countries highlighted in blue
+for effect). These results are derived from multi-dimensional de-
+mographic modelling techniques that take into account age, sex,
+education, and other characteristics, building on approaches used
+by the Centre of Expertise on Population and Migration (CEPAM),
+a joint research initiative of the EC’s Joint Research Centre (JRC)
+and IIASA.
+Country
+2015 Population
+2045 Pop. Projection
+(Medium)
+2075 Pop. Projection
+(Medium)
+2045 Pop. Projection
+(Medium) – Zero
+Migration
+2075 Pop. Projection
+(Medium) – Zero
+Migration
+China
+1,397.1
+1,341.5
+1,040.7
+1,348.0
+1,053.1
+Japan
+128.0
+110.3
+89.8
+108.6
+85.3
+South Korea
+50.6
+49.8
+39.8
+49.5
+38.8
+Thailand
+68.7
+67.4
+56.0
+65.5
+50.9
+Vietnam
+93.6
+106.5
+95.8
+109.3
+101.8
+Albania
+2.9
+2.3
+1.5
+3.0
+2.6
+Austria
+8.7
+9.2
+9.7
+8.2
+6.9
+37
+C H A P T E R 1
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+Belarus
+9.5
+8.6
+8.0
+8.4
+7.1
+Belgium
+11.3
+12.4
+13.3
+11.4
+10.7
+Bosnia-Herzegovina
+3.5
+2.3
+1.2
+3.2
+2.6
+Bulgaria
+7.2
+5.3
+3.7
+5.9
+4.8
+Croatia
+4.2
+3.7
+3.2
+3.7
+3.2
+Czech Rep.
+10.6
+10.0
+9.2
+9.7
+8.4
+Denmark
+5.7
+6.2
+6.8
+5.8
+5.8
+Estonia
+1.3
+1.2
+1.2
+1.2
+1.0
+Finland
+5.5
+5.6
+5.8
+5.5
+5.5
+France
+64.5
+72.8
+80.0
+68.3
+68.5
+Germany
+81.7
+80.5
+80.4
+72.7
+60.5
+Greece
+11.2
+11.0
+10.6
+10.3
+8.6
+Hungary
+9.8
+8.6
+7.5
+8.3
+6.8
+Iceland
+0.33
+0.39
+0.42
+0.39
+0.41
+Ireland
+4.7
+5.5
+5.8
+5.4
+5.5
+Italy
+59.5
+56.1
+50.9
+53.3
+43.4
+Latvia
+2.0
+1.7
+1.6
+1.7
+1.4
+Lithuania
+2.9
+2.

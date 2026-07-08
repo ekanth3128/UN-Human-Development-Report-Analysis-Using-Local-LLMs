@@ -1,0 +1,218 @@
+88
+Azerbaijan
+Very high human development
+Belgrade district
+0.872
+0.902
+0.858
+0.877
+35
+Poland
+South Bačka district
+0.858
+0.829
+0.807
+0.831
+48
+Montenegro
+64
+C H A P T E R 2
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+Upper-high human development
+Nišava district
+0.864
+0.795
+0.725
+0.793
+69
+Albania
+Srem district
+0.845
+0.756
+0.774
+0.791
+69
+Albania
+Šumadija district
+0.863
+0.778
+0.734
+0.790
+69
+Albania
+Moravica district
+0.866
+0.752
+0.755
+0.790
+69
+Albania
+North Bačka district
+0.838
+0.771
+0.761
+0.789
+70
+Cuba
+South Banat district
+0.843
+0.755
+0.764
+0.786
+70
+Cuba
+Central Banat district
+0.832
+0.758
+0.757
+0.781
+73
+Bosnia & Herz.
+Mid-high human development
+Zlatibor district
+0.867
+0.730
+0.729
+0.773
+82
+N. Macedonia
+West Bačka district
+0.832
+0.759
+0.731
+0.773
+82
+N. Macedonia
+Bor district
+0.833
+0.687
+0.803
+0.772
+82
+N. Macedonia
+Pirot district
+0.850
+0.724
+0.746
+0.771
+82
+N. Macedonia
+North Banat district
+0.817
+0.734
+0.743
+0.764
+84
+Brazil
+Kolubara district
+0.859
+0.697
+0.728
+0.758
+86
+Ecuador
+Rasina district
+0.862
+0.716
+0.701
+0.756
+88
+Azerbaijan
+Raška district
+0.858
+0.742
+0.671
+0.753
+88
+Azerbaijan
+Lower-high human development
+Mačva district
+0.844
+0.709
+0.700
+0.748
+91
+Algeria
+Pomoravlje district
+0.854
+0.696
+0.696
+0.745
+92
+Lebanon
+Podunavlje district
+0.835
+0.732
+0.674
+0.744
+92
+Lebanon
+Braničevo district
+0.843
+0.647
+0.739
+0.739
+95
+Tunisia
+Pčinja district
+0.845
+0.718
+0.658
+0.737
+99
+Mongolia
+Toplica district
+0.841
+0.699
+0.679
+0.736
+99
+Mongolia
+Zaječar district
+0.844
+0.690
+0.673
+0.732
+101
+Jamaica
+Jablanica district
+0.843
+0.704
+0.656
+0.730
+102
+Jordan
+Table 3. Regions and districts of Serbia ranked by the Human Development Index in the context of the UNDP’s HDI world ranking (2019)
+Source: Own calculations based on SORS (2013, 2021a, 2021b); UNDP (2021). The values for the subnational levels are normalised to match the UNDP’s HDI
+indices for Serbia in 2019.
+* The region of Belgrade coincides with the district of Belgrade according to the administrative organisation of spatial units in Serbia.
+65
+C H A P T E R 2
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+Depopulation in terms of the shrinking and ageing population of Ser-
+bia is commonly interpreted at the national level with no or little ef-
+fort to be appropriately considered from the sub-national perspective.
+However, depopulation is a much more regional and sub-regional demo-
+graphic challenge than a national-level issue. Yet, it is often overlooked
+or incorrectly addressed in relevant strategic and policy papers. The
+aim of this part of the chapter is to underline the importance of tai-
+loring policies tackling depopulation challenge to subnational demo-
+graphic specificities by means of interpreting the projections of popu-
+lation at the district level of Serbia.
+In  this section, we have present long-term scenario-wise population
+projections in disaggregation by sex and age at the level of the district
+addressing different demographic perspectives depending on poten-
+tially different trajectories of the main components of population
+dynamics (fertility, mortality and migration). The level of districts in
+Serbia corresponds to NUTS 3, denoted as the level of “small regions
+for specific diagnoses” according to the NUTS classification (Eu-
+rostat, 2021c). It proved to be the country’s most stable spatial unit in
+terms of time variability, which also makes it the lowest spatial level
+for producing reliable population forecasts. The projection time hori-
+zon covers the long-term period – 2020-2100, similarly to the current
+country-level projections of the world and the EU population (UN,
+2019a; Eurostat, 2021b). This time horizon approximately matches
+the average lifetime span of people in Southern Europe, which allows
+a comparison of two almost completely different populations – the
+one that consists of ancestors of the projected cohorts, reflecting
+the past trends in population dynamics 

@@ -1,0 +1,71 @@
+ of information networks“. METU JFA 33(1): 37-59.
+•	 Ševčíková, H., & Raftery, A. E. (2015). bayesLife: Bayesian Pro-
+jection of Life Expectancy. R package version 3.0-0. http://CRA-
+N.R-project.org/package=bayesLife
+•	 Ševčíková, H., Alkema, L., & Raftery, A. E. (2015). bayesTFR: An
+R package for probabilistic projections of the total fertility rate.
+Journal of Statistical Software 43(1): 1–29.
+•	 Šuht, S. (2021). Procena uticaja na zdravlje i odnosa troškova i ko-
+risti: Pristup i rezultati za Srbiju, Beograd, Ministarstvo životne
+sredine RS, Ministarstvo Finansija RS. https://drive.google.com/
+file/d/1BRQ9vjz8nIAy6T6npXVgRoPIBI7hbKws/view
+•	 TALIS (2018). TALIS 2018 Technical Report. Paris: OECD Publis-
+hing  https://www.oecd.org/education/talis/TALIS_2018_Tech-
+nical_Report.pdf
+•	 Taylor-Gooby, Peter (ed.) (2004) New Risks, New Welfare: The
+Transformation of the European Welfare State. Oxford: Oxford Uni-
+versity Press.
+•	 Teodorović, J., Bodroža B., Stanković D. (2015), “Porodični resursi
+i kvalitetna nastava kao fakori postignuća učenika iz matematike
+i prirodnih nauka: analiza Tomss 2011 u Srbiji”. U: Radišić, Jele-
+na and Nevena Buđevac (eds.) Sekundarne analize istraživačkih
+nalaza u svetlu novih politika u obrazovanju.  Beograd: Ministar-
+stvo prosvete, nauke i tehnološkog razvoja Belgrade: Ministry of
+Education, Science and Technological Development, pp.172-185
+•	 Thevenon, O. (2015). „Decreasing Fertility in Europe: Is it a Po-
+licy Issue?“, In: Matthijs, K., Neels, K. Timmerman, C., Haers, J.
+Mels S., (Eds.) Population Change in Europe, the Middle-East and
+North Africa: Beyound the Demographic Divide, Ashgate.
+•	 Thomson, E., & Henz, U. (2005). „Union stability and stepfamily
+fertility in Austria, Finland, France & West Germany“. European
+Journal of Population 21: 3–29.
+•	 Tighe, R., Ganning, J. (2016). „Do Shrinking Cities Allow Rede-
+velopment Without Displacement? An Analysis of Affordability
+Based on Housing and Transportation Costs for Redeveloping,
+Declining, and Stable Neighborhoods“. Housing Policy Debate 26
+(2): 785-800.
+•	 Tim za socijalno uključivanje i smanjenje siromaštva Vlade Re-
+publike Srbije (2020). Ocena kretanja siromaštva, životnog stan-
+darda i odgovor na posledice Covid-19 pandemije.
+•	 Toes-Zoutendijk E, van Leerdam ME, Dekker E, van Hees F, Pen-
+ning C, Nagtegaal I et al. (2017). Real-time monitoring of results
+during first year of Dutch colorectal cancer screening program
+240
+R E F E R E N C E S
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+and optimization by altering fecal immunochemical test cut-off
+levels. Gastroenterology 152 (4):767–775.
+•	 Tomanović, S. (2012) „Tranzicije u porodičnom domenu“ u Tomano-
+vić, S. et al. Mladi – naša sadašnjost, ISIFF, Beograd, 127–146.
+•	 Tomanović, S., Stanojević D., Ljubičić M. (2016). Postajanje rodi-
+teljem u Srbiji: Sociološko istraživanje tranzicije u roditeljstvo. Beo-
+grad: Institut za sociološka istraživanja Filozofskog fakulteta.
+•	 Tomanović, S., Stanojević, D. (2015) Mladi u Srbiji 2015. Stanja,
+opažanja, verovanja i nadanja, Beograd: Friedrich Ebert Stiftung
+i SeCons.
+•	 Trgovčević, F., Stupar, A., Ivanović, M, Susman, R. (2020) „To-
+ward Flood Resilience in Serbia: The Challenges of an (Un)Susta-
+inable Policy“ Sustainability 12(17): 7228
+•	 Turok, I. & Mykhnenko, V. (2007). „The trajectories of European
+cities, 1960–2005“. Cities 24 (3): 165–182.
+•	 UN (1992). United Nations Framework Convention On Climate
+Change. https://www.nbs.rs/export/sites/NBS_site/documents/
+dpf/izvestaji/dpf_IV_20.pdf
+•	 UN (2015). UN General Assembly, Transforming our world: the
+2030 Agenda for Sustainable Development, Octobar 21, 2015, A/
+RES/70/1. https://www.refworld.org/docid/57b6e3e44.html
+•	 UN (2019). World Population Prospects. Highlights. New York: Uni-
+ted Nations
+•	 UN (2021). Global Population Growth and Sustainable Develop-
+ment. New York: United Nations, https://www.un.org/develop-
+ment/des

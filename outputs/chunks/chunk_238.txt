@@ -1,0 +1,258 @@
+-
+mated proportion of all deaths attributable to PM2.5 is highest Užice
+and Valjevo (almost 19%) where mean concentrations of PM2.5 are
+four times higher than recommended. In absolute terms, air pollution
+has by far the highest impact in Belgrade. However, when estimated
+per 100,000 inhabitants, existing concentration of PM2.5 is associated
+with the highest relative impact on health, in Valjevo and Užice (WHO,
+2019:14).
+Rank
+Country/
+territory
+Deaths by
+100.000
+inhabitants
+Annual mean
+PM  2.5 μg/m3
+% Energy
+produced
+from coal
+1
+Kosovo235
+215.5
+26.4
+97.5
+2
+Bulgaria
+210.9
+24.1
+46.2
+3
+Serbia
+200.7
+23.3
+72.4
+4
+Macedonia
+154.7
+28.7
+58.4
+5
+Hungary
+148.4
+18.9
+19.5
+6
+Italy
+138.7
+18.5
+16.7
+7
+Greece
+137.3
+19.1
+42.7
+8
+Romania
+137.3
+18.1
+27.6
+9
+Poland
+125.0
+21.6
+80.9
+10
+Croatia
+122.1
+17.4
+20.6
+11
+Montenegro
+110.9
+18.5
+50.3
+12
+BH
+105.1
+18.9
+64.0
+13
+Czech Republic
+104.9
+17
+54.0
+14
+Slovenia
+99.9
+17.4
+29.6
+15
+Slovakia
+99.8
+19.1
+11.9
+Table 2. European countries and territories with higher death rates
+attributed to air pollution, Air Quality Report 2018
+Source: Carvalho, 2019.
+235 All references to Kosovo shall be interpreted in accordance with Security Council Resolution 1244 (1999).
+236 https://eas3.euzatebe.rs/rs/o-projektu (accessed 14/11/21)
+221
+C H A P T E R 9
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+In the continuation of this section of the  report, we rely on the data
+gathered through the project “Air Protection Programme in the Re-
+public of Serbia with an action plan”. Within the project, four scenar-
+ios of air pollution in Serbia until 2030 were made (WEM, WAM-A,
+WAM-B, WAM-C). The analysis of the impact of air pollution in Ser-
+bia on population health, morbidity and mortality is based on infor-
+mation on the levels of primary air pollution emissions from different
+scenarios for Serbia: the reference scenario from 2015 (REF), which
+is the baseline scenario compared to 2030, which is a projected sce-
+nario of a situation with the application of existing regulations (WEM
+2030), and three mitigating scenarios: WAM A, WAM B and WAM
+C (Šuht, 2021: 1). Each scenario implies additional efforts (with addi-
+tional measures) compared to the previous one.
+• 	 WEM: with existing measures. The scenario includes policies and
+measures adopted and implemented by January 1, 2019.
+• 	 WAM A: with additional measures A. Relevant EU directives and
+regulations are not yet fully transposed and implemented;
+•	 WAM B: with additional measures B. More intensive control than
+in the case of WAM A. In addition to WAM A measures, stricter
+emission limits are introduced in some sectors and measures are
+set for national financial and fiscal measures for key categories of
+emission sources;
+•	 WAM C: with additional measures C. Complete control scenario.
+In addition to WAM B measures, new measures are introduced,
+City
+Mean con-
+centration
+(µg/m3)
+Total popu-
+lation
+Population
+aged ≥ 30
+years
+Estimated attributable deaths
+Estimated attributable proportion
+No.
+Cl
+%
+% (95% Cl)
+Beočin
+22.2
+15 304
+10 183
+14
+9-18
+7.1
+4.68 - 9.29
+Belgrade
+29.2
+1 364 453
+937 461
+1796
+1194 - 2337
+10.9
+7.25 - 14.19
+Old Belgrade
+29.4
+932 813
+640 819
+1259
+838 - 1639
+11.0
+7.34 - 14.37
+New Belgrade
+28.7
+431 640
+296 642
+539
+358 - 702
+10.7
+7.08 - 13.87
+Kosjerić
+31.1
+11 341
+8 234
+25
+17 - 33
+11.9
+7.93 - 15.46
+Kragujevac
+30.5
+178 610
+122 020
+250
+166 - 324
+11.6
+7.74 - 15.11
+Lazarevac
+34.2
+57 735
+37 999
+104
+69 - 135
+13.5
+9.05 - 17.54
+Niš
+29.2
+257 883
+176 513
+354
+236 - 461
+10.9
+7.27-14.23
+Novi Sad
+22.8
+350 930
+231 604
+280
+185 - 367
+7.4
+4.90 - 9.72
+Obrenovac
+31.9
+72 323
+48 594
+117
+78 - 152
+12.3
+8.24-16.04
+Smederevo
+39.3
+105 774
+70 221
+223
+150 - 287
+16.2
+10.87 - 20.85
+Užice
+44.4
+75 805
+52 856
+180
+121 - 231
+18.7
+12.62 - 23.98
+Valjevo
+44.6
+87 944
+61 802
+242
+164 - 311
+18.8
+12.69 - 24.1
+All
+2 578 102
+2 694 948
+3 585
+Table 3.  Total long-term mortality due to PM2.5 in 11 Serbian cities
+Source: WHO, 2019: 12
+Scenario
+REF
+WEM
+WAM A
+WAM B
+WAM C
+Yea

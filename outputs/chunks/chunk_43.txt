@@ -1,0 +1,88 @@
+ from around 1.9 to less
+than 1.2 by 1996 and staying at this very low level until 2003. As the
+figure illustrates, this steep decline in the TFR was associated with
+a rather strong increase in the mean age of first birth. Since 2004,
+the TFR has recovered to its current 1.7 and the increase in the age
+at first birth has largely stopped. Similar patterns have been observed
+Figure 6. Trends in TFR and Adjusted TFR in the Czech Republic Region from 1980-2019
+Source: VID and IIASA, 2020.
+1.0
+1980
+1984
+1988
+1992
+1996
+2000
+2004
+2008
+2012
+2016
+2020
+1.2
+1.4
+1.6
+1.8
+2.0
+2.2
+20
+22
+24
+26
+28
+30
+32
+Fertility Rate
+Mean age at ﬁrst birth (right y axis)
+Tempo and parity adjusted TFRp*
+TFR
+47
+C H A P T E R 1
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+in many European countries. However, the recent recoveries are very
+dependent on the technicalities of the measure of fertility and are of-
+ten hastily interpreted by national governments as successes of their
+respective policies aimed at higher fertility.
+Do these trends in the TFR tell the right story in terms of the “quan-
+tum” of fertility, or the undistorted level of fertility or the actual
+number of children women on average have over the course of their
+lives? The best measure clearly would be completed cohort fertility.
+This ultimate number of children that women had over their lives
+can, however, only be assessed once a female cohort has completed
+its childbearing, which in practical terms requires waiting until age
+45-50. For the impatient observer, this is usually too long a period of
+waiting to understand the impact of certain policies on fertility, in
+particular since most of the children of this cohort will have already
+Figure 7 shows a graph comparable to that in Figure 6, but for Russia,
+which is probably the most prominent case of robust pro-natal poli-
+cies in recent years in Europe. The pattern in Russia is actually quite
+similar to that in the Czech Republic, with Russia experiencing a pre-
+cipitous decline in TFR from more than 2.0 to less than 1.2 associated
+with the political, economic, and social upheaval during the 1990s.
+In Russia, the increase in birth rates has been correlated with quite
+significant pro-natal measures and is widely interpreted as evidence
+that such policies indeed work if they are generous enough. The TFR
+in Russia reached a level of almost 1.8 in 2016, though it was followed
+by a regression of TFR back down to 1.5 in recent years. The orange
+line in Figure 7 giving the “adjusted TFR” again shows much less
+fluctuation when relying on the “adjusted” methodology, although,
+unlike the Czech Republic, there was a real increase in the estimated
+quantum of fertility in Russia between 2005 and 2016. Whether or not
+been adults by the time the cohort is “completed,” born 20-25 years
+prior. An effective and relatively new approximation of the ultimate,
+true level of fertility using contemporary information is called the
+“adjusted TFR,” which is designed to eliminate the distortions due
+to tempo effects and changes in the parity distribution (Bongaarts
+and Sobotka, 2012). This adjusted TFR is shown as the orange line
+in Figure 6 above. For the Czech Republic, with some minor fluctu-
+ations, there was an almost linear decline in the quantum of fertility
+from the 1980s to the more recent years. There is neither a precipi-
+tous decline nor a spectacular recovery, as implied by the TFR. This
+also indicates that claims that certain policies have led to higher fer-
+tility levels in this case would, at best, be valid in terms of slowing the
+increase in the mean age at births without influencing the quantum
+of fertility.
+this higher fertility will continue its momentum will be shown by the
+data over the coming few years.
+But beyond these technicalities, is it really desirable for all popula-
+tions to aim for the stationary effect that is implied by maintaining
+replacement-level fertility? A study has systematic

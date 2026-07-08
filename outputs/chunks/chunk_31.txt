@@ -1,0 +1,159 @@
+4
+1.9
+2.6
+2.2
+Luxembourg
+0.57
+0.77
+0.97
+0.6
+0.56
+Montenegro
+0.63
+0.6
+0.55
+0.62
+0.56
+Netherlands
+16.9
+18.2
+18.8
+17.1
+16.1
+North Macedonia
+2.1
+1.8
+1.4
+2.0
+1.8
+Norway
+5.2
+6.2
+7.2
+5.7
+5.8
+Poland
+38.3
+34.5
+28.8
+35.5
+30.7
+Portugal
+10.4
+9.1
+7.7
+9.4
+7.8
+Moldova
+4.1
+3.6
+2.9
+3.7
+3.0
+Romania
+19.9
+15.4
+10.5
+17.3
+14.0
+Russia
+143.9
+134.2
+129.4
+126.0
+108.3
+Serbia (excl. Kosovo6)
+6.9
+5.6
+4.4
+6.0
+5.1
+Slovakia
+5.4
+5.0
+4.3
+5.1
+4.5
+Slovenia
+2.1
+2.1
+2.1
+1.9
+1.6
+Spain
+46.4
+4.8
+46.9
+43.5
+35.9
+Sweden
+9.8
+11.4
+13.4
+10.3
+10.6
+Switzerland
+8.3
+9.8
+11.0
+8.4
+7.5
+Ukraine
+44.7
+38.4
+34.1
+37.3
+30.4
+United Kingdom
+65.4
+73.3
+80.0
+69.2
+69.0
+Table 2. Population size across countries (in the millions) (i) as of 2015, projections for countries’ populations in both (ii) 2045 and (iii) 2075, accord-
+ing to a “medium assumptions” scenario (“SSP2”), and projections for countries’ populations in both (iv) 2045 and (v) 2075, assuming no inbound or
+outbound migration, with a focus on countries of East Asia and Europe, with Serbia and neighbouring Balkan countries highlighted in blue
+Source: WIC, 2019 (Projections for Serbia were updated by Michaela Potančoková)
+6 References to Kosovo shall be understood to be in the context of Security Council Resolution 1244 (1999).
+38
+C H A P T E R 1
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+A comparison of the “medium assumption” scenario and the “medi-
+um assumption – zero migration” scenario (combined with medium
+fertility and mortality) shows that under the hypothetical assumption
+of no international migration, 23 of the current 27 member states of
+the European Union would have a lower population size in 2075 than
+today. This population decline results from the complex interactions
+of current age structures (resulting from past fertility, mortality,
+and migration trends), assumed further increases in life expectancy
+(contributing positively to population growth) and assumed fertility
+levels not so different from the currently observed ones (contribut-
+ing to long-term population decline). In the EU, only France, Ireland,
+Sweden, and Finland would experience modest population growth by
+2075 under the scenario of no international migration. This is most-
+ly due to a relatively higher level of current fertility, together with a
+somewhat younger current age structure.
+The broader pattern for European countries not in the EU is rather
+similar as those in the EU. All countries listed in Table 2 would be nat-
+urally shrinking without considering in- and out-migration, except
+for Iceland, Norway, and the UK. Many countries also would shrink
+under the assumption of a continuation of past in- and out-migration
+rates, which is the migration assumption in the “medium assump-
+tions” scenario. For Serbia’s Balkan peers (highlighted in blue in Ta-
+ble 2  below), the gaps between the “medium assumptions” and “me-
+dium assumptions – zero migration” scenarios show how large the
+impact of out-migration becomes over time. Furthermore, unlike oth-
+er major demographic events like births and deaths, out-migration is
+difficult to capture since emigrants often do not register when leaving
+the country. These population projections use official estimates, but
+they are in turn susceptible to under-reporting, particularly relevant
+for the high out-migration countries like those across the Balkans.
+Serbia can expect a smaller, but better educated future population accord-
+ing to all the divergent scenarios explored in this study, in keeping with
+the broad direction of the other countries across Europe. However,
+depending on how and whether out-migration from Serbia to West-
+ern Europe reduces or accelerates over the coming years, the severity
+of Serbia’s population reduction could vary substantially. By 2050,
+this would mean a nearly 1,000,000 person difference between the
+high vs. low out-migration scenarios that assume a doubling of recent
+migration streams or, alternatively, zero future migration (

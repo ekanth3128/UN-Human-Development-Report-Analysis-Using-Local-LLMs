@@ -1,0 +1,189 @@
+er education institutions
+3
+Vranje
+small growth
+Distance from larger cities, border vicinity, poor financial conditions
+4
+Vršac
+small decline
+Border vicinity, small size of the city and areas of influence, distance from the nearest highway
+5
+Zaječar
+small decline
+Border vicinity, deindustrialisation and areas of influence, distance from the nearest highway
+6
+Zrenjanin
+small decline
+Distance from the nearest highway, poor financial conditions, border vicinity
+7
+Jagodina
+moderate growth
+Large spatial distribution of the city, deindustrialisation, poor financial conditions
+8
+Kikinda
+moderate decline
+Border vicinity, distance from the nearest highway and from larger cities
+9
+Kraljevo
+moderate growth
+Large spatial distribution of the city, lack of higher education, poor financial conditions
+10
+Kruševac
+small growth
+Large spatial distribution of the city, lack of higher education, poor financial conditions
+11
+Leskovac
+small decline
+Poor financial conditions, deindustrialisation, the size of the city in relation to the area of influence
+12
+Loznica
+moderate decline
+Border vicinity, distance from larger cities, poor financial conditions
+13
+Novi Pazar
+large growth
+Poor financial conditions, distance from the highway and from larger cities
+14
+Pančevo
+small decline
+Deindustrialisation, lack of higher education, large spatial distribution of the city
+15
+Pirot
+small decline
+Border vicinity, large spatial distribution of the city, small size of the city and areas of influence
+16
+Požarevac
+moderate growth
+Small size of the city, large spatial distribution of the city, lack of higher education
+17
+Prokuplje
+small decline
+Small size of the city and areas of influence, poor financial conditions, deindustrialisation
+18
+Smederevo
+small growth
+Lack of higher education, large spatial distribution of the city, deindustrialisation
+19
+Sombor
+moderate decline
+Border vicinity, distance from the nearest highway and from larger cities
+20
+Sremska Mitrovica
+small decline
+Lack of higher education, deindustrialisation, small city size and areas of influence
+21
+Subotica
+small decline
+Border vicinity, distance from larger cities, deindustrialisation
+22
+Užice
+small decline
+Distance from larger cities and from the nearest highway, deindustrialisation
+23
+Čačak
+small growth
+Large spatial distribution of the city, lack of higher education, poor financial conditions
+24
+Šabac
+small decline
+Poor financial conditions, large spatial distribution of the city, distance from larger cities
+Table 6. Population change 2011-2002 and the three most unfavourable features of the researched cities
+They are not too close to be their ‘ordinary’ growing suburbs, and, on
+the other hand, they are not far enough to avoid the attractive power
+of the metropolis. This reduces their centrality with respect to their
+size, which further slows down the development of these cities.
+Based on the previous table, it is seen that the change in the number
+of inhabitants in the surveyed cities is accompanied by other unfa-
+vourable development constraints and trends, as follows:
+finding can emphasise that medium-sized cities especially lack the
+following in their further development: (1) higher education and sci-
+entific research institutions, which indirectly encourage the develop-
+ment of the higher education sector and highly qualified jobs, and (2)
+better conditions for spending free time, and (3) not (only) opening
+of industrial plants and related new jobs, which mainly require the
+secondary degree of education, as is often emphasised both by repre-
+sentatives of the city administration and in the media.
+Table 5. Categorisation (CAT) of cities according to the analysed criteria in relation to the population growth or decline (criterion – C).
+20
+Sremska Mitrovica
+4
+4
+3
+3
+3
+5
+5
+1
+5
+3
+4
+2
+29.00
+4
+21
+Subotica
+4
+1
+3
+3
+4
+5
+2
+2
+6
+5
+1
+6
+27.83
+3
+22
+Užice
+4
+3
+2
+3
+5
+5
+3
+5
+5
+6
+4
+3
+32.83
+6
+23
+Čačak
+3
+1
+4
+4
+5
+4
+4
+1
+2
+3
+2
+3
+20.83
+1
+24
+Šabac
+4
+2
+4
+5
+4
+2
+3
+3
+5
+4
+4
+4
+26.33
+3
+195
+C H A P T E R 8
+National Human Develo

@@ -1,0 +1,58 @@
+ one million of Serbian citizens residing abroad in the mid-2020
+(United Nations, 2020). We believe the real size of emigrant stock
+originating from Serbia is closer to this upper bound given the known
+limitations of census methodology19 in this aspect (Reynaud, Niki-
+tović & Tucci, 2017).
+There are only a few studies that have offered an estimate of the an-
+nual migration inflows and outflows to/from Serbia according to the
+definitions of the United Nations (UN) and the EC Regulation No
+862-2007 (Kupiszewski et al., 2012; Lukić, et al., 2013; UNFPA Serbia,
+2019; Nikitović, 2019). These are based on the migration statistics of
+the countries that are main destinations of the Serbian citizens. The
+basic limitation of such estimates is methodological in its nature. In
+practice, it is not possible to collect statistically relevant data from all
+destination countries either because they are not available, or their
+quality is debatable. The latter is common in the case of countries
+where Serbian citizens make up a very small share of immigrants. Ad-
+ditionally, longer time series on migration flows related to the citizens
+of Serbia are not available due to frequent changes of its borders in
+the period 1991-2008.
+The result is a data series shorter than a decade, which strongly af-
+fects the quality of conclusions about the trends in international mi-
+gration flows from/to the present-day territory of Serbia. Finally, it is
+a well-known fact that the numbers on deregistered immigrants are
+often highly underestimated across the reports of statistical offices,
+particularly those in the most popular destination countries. This
+factor is becoming increasingly important as the share of short-term
+migration flows in the total migration rises.
+Given the listed limitations of the migration flow statistics, we have
+relied on a single source as the best possible approximation of the net
+migration flows between Serbia and the most important destination
+countries – the annual ‘snapshot’ (on 31 December of each year) of
+administratively based statistics of valid residence permits with du-
+ration of at least 12 months issued to Serbian citizens in the EU and
+EFTA countries (Eurostat, 2021a). The recent report on the estimate
+of net international migration for Serbia, produced by the Statistical
+Office of the Republic of Serbia and UNFPA Serbia (2019), served to
+adjust and correct figures from diverse data sets on foreigners avail-
+able from different national sources including migration of our cit-
+izens to large countries outside the EU. The total net emigration in
+the period between 30 Sep 2011 (the Census Day) and 31 Dec 2020, in
+accordance with the concept of usually resident population applied in
+the 2011 Census, was estimated to −46,612 people. This suggests that
+net emigration from Serbia is fairly lower than is typically reported in
+the media, particularly due to the rising share of short-term tempo-
+rary and circular migration in the recent period even in the traditional
+emigration countries, such as Germany (for more details on method-
+19 Recent censuses in Serbia have significantly underestimated the number of Serbian emigrants as their focus were not on those residing abroad for more than a year but
+on the population usually residing in the country. Emigrants were not interviewed directly, thus a lot of them could not be covered only by interviewing their relatives or
+neighbours residing in the country.
+ology used to estimate the balance of international migration of Ser-
+bia in this report, see Arandarenko, 2021).
+1.5.2	 Internal migration
+Frequent changes of political borders in the region of former Yugosla-
+via since 1991 affected the availability and quality not only of the sta-
+tistics on international but also on internal migration in Serbia. Also,
+about 200 thousand of internally displaced persons who fled from the
+region of Kosovo and Metohija during and after the NATO military
+campaign in 1999 (Commissariat for Refugees and Mi

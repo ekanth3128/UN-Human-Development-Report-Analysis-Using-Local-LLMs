@@ -1,0 +1,254 @@
+e
+all zero or nullifying each other.  Thus, we can treat the difference be-
+tween stocks in two periods as the billateral net migration balance.
+Table 1 presents data on stocks of Serbian emigrants in ‘Eurostat-Eu-
+rope’ at two end points of our analysis, 2010 and 2019 (or somewhat
+shorter period for 4 countries).54
+Concept 1: Serbian citizens’ immigrant stock at the end of year t = stock at the end of year / period t-1 + inflows
+in year / period t (immigration proxied by first time residence permits + new births) – outflows (returns to Serbia
++ migration to 3rd country + deaths)
+Concept 2: Serbian citizens’ immigrant stock at the end of year / period t = stock at the end of year t-1 + inflows
+in year / period t (immigration proxied by first time residence permits + new births + naturalized Serbian citizens)
+– outflows (returns to Serbia + migration to 3rd country + deaths)
+Emigration stocks by countries of destination
+102
+C H A P T E R 4
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+2010
+2019 (Concept 1 –
+recorded citizen stock)
+2019 (Concept 2 –
+recorded stock + naturalization
+2010-2019)
+Emigrant stock
+balance 2010-19
+Concept 1
+Emigrant stock
+balance 2010-19
+Concept 2
+Germany
+290,092
+231,120
+260,186
+58,972
+29,906
+Italy
+61,027
+37,123
+55,040
+23,904
+5,987
+France
+35,141
+27,149
+43,659
+7,992
+-8,518
+Sweden
+12,090
+9,272
+19,959
+2,818
+-7,869
+Austria
+111,708
+107,369
+114,522
+4,339
+-2,814
+Slovenia
+8,273
+20,374
+22,112
+-12,101
+-13,839
+Belgium
+3,270
+4,433
+6,358
+-1,163
+-3,088
+Luxembourg
+2,033
+2,055
+3,159
+-22
+-1,126
+Netherlands
+454
+3,499
+5,069
+-3,045
+-4,615
+Hungary
+18,080
+9,349
+14,002
+8,731
+4,078
+Spain
+2,848
+3,274
+3,791
+-426
+-943
+Bulgaria
+466
+2,243
+2,855
+-1,777
+-2,389
+Malta
+502
+6,481
+6,732
+-5,979
+-6,230
+Greece
+3,771
+3,720
+4,336
+51
+-565
+Czech Republic
+1,933
+5,592
+5,951
+-3,659
+-4,018
+Finland
+1,377
+807
+1,315
+570
+62
+Slovakia
+3,826
+15,842
+16,315
+-12,016
+-12,489
+Cyprus
+882
+386
+584
+496
+298
+Poland
+701
+1,015
+1,150
+-314
+-449
+Portugal
+219
+219
+321
+0
+-102
+Ireland
+300
+359
+659
+-59
+-359
+Iceland
+219
+259
+413
+-40
+-194
+Estonia
+12
+48
+48
+-36
+-36
+Latvia
+14
+40
+40
+-26
+-26
+Lithuania
+13
+60
+60
+-47
+-47
+Romania
+1,599
+2,121
+2,220
+-522
+-621
+UK (‘12 & ‘18)
+1,496
+1,541
+4,085
+-45
+-2,589
+2010/2012
+2019 (Concept 1)
+2019 (Concept 2)
+Emigrant stock
+balance 2010-19
+Concept 1
+Emigrant stock
+balance 2010-19
+Concept 2
+Norway ‘10
+1,228
+5,706
+6,731
+-4,478
+-5,503
+Switzerland ‘12
+94,979
+60,595
+87,057
+34,384
+7,922
+2013
+2019 (Concept 1)
+2019 (Concept 2)
+Emigrant stock
+balance 2010-19
+Concept 1
+Emigrant stock
+balance 2010-19
+Concept 2
+Croatia
+1,509
+10,193
+12,308
+-8,684
+-10,799
+Liechtenstein
+279
+236
+263
+43
+16
+Table 1. Stock of Serbian emigrants in Eurostat-Europe, 2010 and 2019, Concept 1 and Concept 2
+Source: Eurostat
+103
+C H A P T E R 4
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+Table 1 offers a lot of important and interesting insights. In general,
+contrary to global trend, we see further deconcentration of Serbian
+emigrant stock in Europe, especially according to Concept 1 (without
+naturalization). Among only several countries in which, according
+to Concept 2, the number of Serbian migrants declined or remained
+roughly unchanged (coloured green or yellow in Table 1; while cells
+with an increase in Serbian migration stock are colored red) are those
+with the largest Serbian immigrant stock – Germany, Austria, Switzer-
+land and Italy. On the other hand, there are some booming destina-
+tions. Among those destinations which at least doubled their stock of
+Serbian migrants between 2010 and 2019 or over a somewhat shorter
+time span are Slovenia, Slovakia, Croatia, Norway, Malta, Nether-
+lands, United Kingdom and Czechia. However, those destinations
+started from much lower base and, by 2019, the stock of Serbian immi-
+grants in Slovenia, the country with the largest stock in this fast grow-
+ing group, was only 35% of Italian and 8% of German stock. These
+destinations are dominate

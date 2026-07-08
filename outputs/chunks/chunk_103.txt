@@ -1,0 +1,58 @@
+ght refer
+to either Serbian citizens or Serbian-born emigrants, depending on
+the available data in destination countries, but it excludes people of
+Serbian descent (either territorial or ethnic) who never held Serbian
+citizenship and were not born in Serbia. On the other hand, migration
+flows refer to the number of Serbian migrants entering or leaving a
+given country during a defined period of time.
+Additional complications in measurement of migration, especially
+changes in emigrant stocks over time, are related to changing status
+of Serbia as a polity undergoing four status changes between 1991 and
+2006, and is still in an unresolved dispute over its sovereignty of its
+autonomous province of Kosovo and Metohija. Further complications
+arise from Serbian policy on dual citizenship. As some other countries
+with a lot of people of their ethnicity outside its borders, Serbia as a
+rule allows dual citizenship. This is used mostly by Serbs from Bosnia
+and Herzegovina, Croatia and Montenegro – and they might reside
+either in their countries of origin, in Serbia, or elsewhere as immi-
+grants. When people holding dual citizenship emigrate from Serbia,
+they might opt to register as immigrants from their countries of origin,
+which is particularly the case with Serbs born in Croatia and holding
+Croatian citizenship, who enjoy the privileges of the EU citizenship in
+their access to work within the EU countries. For that reason, the des-
+tination countries’ statistics on emigration of Serbian citizens might
+underestimate the true size of emigration of resident nationals. On the
+other hand, although it is apparently far less frequent phenomenon,
+some Kosovo Albanians take Serbian citizenship in order to travel and
+work in the European Union with less restrictions.
+There is no easy fix for all these practical problems in capturing em-
+igrant stock and migration flows, nor there could be. However, by
+53 While annual publication of the Commissariat for Refugees and Migration ‘Migration profile of the Republic of Serbia’ presents such data, they are incomplete and overall
+inadequate. The consistent reliance on destination data to assess emigration size and flows was recently adopted by SORS, 2019, Arandarenko and Aleksić 2020, and
+Arandarenko, 2021.
+54 The data are all taken from the Eurostat database (https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Migration_and_migrant_population_statistics).
+combining various sources and pieces of information,  we believe that
+it is still possible to get a reasonably accurate idea on the scope and
+trends in emigration from and immigration into Serbia.
+2.4  Serbian emigrant stocks
+during the past decade
+In this sub-section we look at the Eurostat data on the total number
+of residing Serbian citizens on December 31 each year by countries
+of destination. We use two concepts of emigrant stock – Concept 1 is
+simply the stock data by country as they are reported. By definition,
+Serbian citizens’ immigrant stock in a destination country at the end
+of period t is equal to stock in the previous period t-1 increased by the
+new mechanical inflows in period t and newly born Serbian citizens
+in the destination country, and decreased by the outflows in period
+t that include admission into citizenship of the destination country
+(naturalization), returns to Serbia, migration to 3rd countries and
+deaths.
+Concept 2 adds another component to inflows – Serbian citizens nat-
+uralized in period t. Note that Concept 2 is not the full stock of Serbi-
+an-born immigrants in a destination country, because Serbian-born
+emigrants naturalized before the period t remain unaccounted for.
+Instead, Concept 2 simply subtracts naturalized Serbian citizens in
+period t from the outflow component, realistically assuming that
+these people stay in their adopted country. What remains are returns
+to Serbia, migration to 3rd countries and deaths. For simplicity, one
+can assume that new births, migration to 3rd countries and deaths ar

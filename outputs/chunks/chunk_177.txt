@@ -1,0 +1,204 @@
+ as the population aged 65 and over.
+118 For more details see Arandarenko, 2021.
+119 For more details, see Arandarenko, 2021.
+120 See, for instance, United Nations Department of Economic and Social Affairs, Population Division, 2020:15.
+2002
+2011
+2019
+2041
+Median age
+40.5
+42.5
+43.7
+44.8
+Older persons,
+65+
+1,240,505
+1,247,876
+1,436,930
+1,644,912
+Share in total
+population (%)
+16.6
+17.3
+20.7
+24.1
+Share of women
+(%)
+57.7
+57.9
+57.1
+57.5
+Oldest-old, 80+
+145,477
+252,087
+321,333
+511,175
+Share in total
+population (%)
+1.9
+3.5
+4.6
+7.5
+Share of women
+(%)
+63.3
+63.1
+61.8
+64.3
+Old-age depend-
+ency ratio (3rd
+variant* (%)
+27.3
+27.4
+33.9
+42.3
+Table 1. Serbia population ageing indicators, 2011 and 2019, and
+projections for 2041, medium fertility variant
+Source: RZS (2021), RZS (2003), Eurostat, code demo_pjanind
+Note: Old-age dependency ratio 3rd variant - population 65 years or over
+to population 20 to 64 years
+165
+C H A P T E R 7
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+121 Sanderson & Scherbov (2015), data taken from S2 Table. Proportions Old (both sexes combined. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4398478/
+below 15 years can be estimated at between 19 and 21.3% in 2041, de-
+pending on the scenario.121
+Population ageing in Serbia is primarily due to fertility decline (age-
+ing from the population pyramid base) (Penev, 2015:139) (Devedžić &
+Stojilković Gnjatović 2015: 24). The total fertility rate declined from
+3.13 in 1950 to only 1.52 in 2019. Unlike fertility decline, which has a
+long-lasting, yet temporary impact on the age structure, increase in
+longevity brings permanent change (Bussolo, Koettl & Sinnott, 2015).
+Reduced elderly mortality, which has substantially affected the age-
+ing process in developed countries, has been of lesser importance
+in Serbia in recent years. In 2019, life expectancy at 65 reached 14.8
+years for men and 17.3 for women (Table 2). Unlike life expectancy
+at birth, which recorded a steady rise in Serbia, life expectancy at 65
+virtually stagnated in the second half of 20th century (Devedžić &
+Stojilković Gnjatović 2015), and reversible processes were even reg-
+istered in 1990s (Radivojević, 2002).
+Life expectancy of older persons in Serbia is below the EU-28 aver-
+age, especially for women, who record lower values than in any EU
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+IE
+LU
+SK
+CY
+PL
+UK
+RO
+MT
+AT
+BE
+NL
+HU
+ES
+CZ
+DK
+EE
+LT
+SI
+SE
+FR
+LV
+RS
+HR
+BG
+DE
+PT
+FI
+EL
+EU-28 (65+)
+80+
+EU-28 (65+)
+EU-28 (80+)
+Figure 1. Share of persons aged 65+ and 80+ in total population, Serbia and EU-28, 2019
+Source: Eurostat, code demo_pjanind
+2002
+2011
+2019
+Men
+12.8
+13.9
+14.8
+Women
+14.9
+16.3
+17.3
+Table 2. Life expectancy at age 65 in Serbia, 2002, 2011 and 2019
+Source:  Eurostat, code  demo_mlexpec
+Figure 2. Life expectancy at age 65 for women and men, Serbia and EU-28, 2018
+Source: Eurostat, code demo_mlexpec
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+RS
+BG
+RO
+HU
+LV
+HR
+SK
+LT
+CZ
+PL
+EE
+DK
+DE
+NL
+UK ER-28 IE
+AT
+SE
+CY
+SI
+BE
+EL
+PT
+FI
+LU
+MT
+IT
+ES
+FR
+Men
+Women
+166
+C H A P T E R 7
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+country. For men, values somewhat below Serbia’s were recorded in
+2018 in Lithuania, Bulgaria, Latvia and Hungary (between 14.1 and
+14.6 years) (Figure 2). According to Eurostat data, most EU countries
+recorded a significant decline in life expectancy at 65 in 2020, as well
+as life expectancy at birth, owing to the COVID-19 pandemic (Eu-
+rostat, 2021).
+Migration also contributed to population ageing in Serbia, albeit to
+a lesser extent (Penev, 2015) (Nikitović, 2019).122 During the 1990s,
+over 320 thousand people, predominantly those younger and bet-
+ter educated, left the country (Penev, 2006). Emigration continued
+in the following years as well. According to the estimates, about 60
+Figure 3. Healthy life expectancy (HALE) at birth (years), Serbia and EU-28, 2019.
+Source: WHO Database
+56
+58
+60
+62
+64
+66
+68
+70
+72
+74
+RS
+BG
+HU
+LV
+R

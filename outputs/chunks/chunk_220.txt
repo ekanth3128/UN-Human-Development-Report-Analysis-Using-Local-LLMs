@@ -1,0 +1,453 @@
+ory (No. 6) for a distance of over 60 km from the nearest border.
+204
+C H A P T E R 8
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+No.
+City
+Distance (in km)
+Category
+No.
+City
+Distance (in km)
+Category
+1
+Bor
+NI
+125
+6
+13. Novi Pazar
+KG
+151
+6
+2
+Valjevo
+BG
+93
+5
+14. Pančevo
+BG
+19
+1
+3
+Vranje
+NI
+109
+5
+15. Pirot
+NI
+71
+4
+4
+Vršac
+BG
+86
+4
+16. Požarevac
+BG
+81
+4
+5
+Zaječar
+NI
+98
+5
+17. Prokuplje
+NI
+29
+1
+6
+Zrenjanin
+NS
+54
+3
+18. Smederevo
+BG
+48
+2
+7
+Jagodina
+KG
+52
+3
+19. Sombor
+NS
+93
+5
+8
+Kikinda
+NS
+108
+5
+20. Srem. Mitrovica
+NS
+53
+3
+9
+Kraljevo
+KG
+53
+3
+21. Subotica
+NS
+107
+5
+10
+Kruševac
+KG
+72
+4
+22. Užice
+KG
+111
+6
+11
+Leskovac
+NI
+44
+2
+23. Čačak
+KG
+54
+3
+12
+Loznica
+BG
+129
+6
+24. Šabac
+BG
+81
+4
+Table 15. Categorisation of cities according to their distance from the nearest larger city in Serbia: Belgrade (BG), Novi Sad (NS), Niš (NI) and Kragujevac (KG).
+No.
+City
+The number of dwellings growth
+Vacant dwellings
+C-D
+Ratio
+1991-2002
+(A)209
+2011-2002
+(B)
+Difference
+C = B/A
+2002
+2011
+2011/2002 (D)
+Number
+In %210
+Number
+In %
+Growth
+In %
+1
+Bor
+1,327
+286
+21.6%
+1,411
+9.9%
+2,503
+17.1%
+1,092
+177.4%
+-806
+2
+Valjevo
+4,307
+3,481
+80.8%
+2,878
+12.6%
+4,420
+17.8%
+1,542
+153.6%
+1,939
+3
+Vranje
+2,503
+1,897
+75.8%
+2,189
+11.8%
+3,006
+15.1%
+817
+137.3%
+1,080
+4
+Vršac
+2,003
+1,711
+85.4%
+2,234
+15.5%
+2,861
+18.8%
+627
+128.1%
+1,084
+5
+Zaječar
+1,304
+780
+59.8%
+2,348
+15.3%
+2,890
+18.3%
+542
+123.1%
+238
+6
+Zrenjanin
+3,371
+2,297
+68.1%
+3,252
+10.5%
+4,791
+14.9%
+1,539
+147.3%
+758
+7
+Jagodina
+2,076
+4,645
+223.7%
+1,811
+12.9%
+4,426
+24.8%
+2,615
+244.4%
+2,030
+8
+Kikinda
+1,498
+1,221
+81.5%
+1,919
+12.2%
+2,441
+15.4%
+522
+127.2%
+699
+9
+Kraljevo
+3,897
+5,779
+148.3%
+1,718
+7.6%
+4,325
+15.7%
+2,607
+251.7%
+3,172
+10
+Kruševac
+3,956
+4,898
+123.8%
+1,799
+8.8%
+4,336
+17.9%
+2,537
+241.0%
+2,361
+11
+Leskovac
+3,693
+2,615
+70.8%
+2,240
+9.6%
+3,723
+15.3%
+1,483
+166.2%
+1,132
+12
+Loznica
+3,557
+3,512
+98.7%
+1,301
+14.0%
+2,618
+23.1%
+1,317
+201.2%
+2,195
+13
+Novi Pazar
+3,653
+3,690
+101.0%
+1,037
+7.5%
+2,529
+14.3%
+1,492
+243.9%
+2,198
+14
+Pančevo
+3,918
+4,508
+115.1%
+3,180
+9.3%
+5,409
+14.4%
+2,229
+170.1%
+2,279
+15
+Pirot
+1,672
+1,257
+75.2%
+1,634
+11.6%
+2,398
+15.9%
+764
+146.8%
+493
+16
+Požarevac
+3,025
+3,536
+116.9%
+2,891
+17.2%
+4,686
+23.5%
+1,795
+162.1%
+1,741
+17
+Prokuplje
+1,242
+860
+69.2%
+1,340
+13.4%
+2,280
+21.0%
+940
+170.1%
+-80
+18
+Smederevo
+3,051
+3,575
+117.2%
+2,557
+11.0%
+4,570
+17.6%
+2,013
+178.7%
+1,562
+19
+Sombor
+2,631
+2,648
+100.6%
+1,604
+8.4%
+2,921
+14.6%
+1,317
+182.1%
+1,331
+20
+Srem. Mitrovica
+2,526
+2,267
+89.7%
+1,011
+6.6%
+2,317
+13.7%
+1,306
+229.2%
+961
+21
+Subotica
+3,777
+5,463
+144.6%
+5,030
+11.4%
+7,635
+16.2%
+2,605
+151.8%
+2,858
+22
+Užice
+2,494
+2,373
+95.1%
+1,551
+7.5%
+3,320
+14.0%
+1,769
+214.1%
+604
+23
+Čačak
+3,699
+4,871
+131.7%
+2,092
+8.1%
+4,544
+15.4%
+2,452
+217.2%
+2,419
+24
+Šabac
+5,652
+5,033
+89.0%
+2,514
+12.1%
+4,817
+20.1%
+2,303
+191.6%
+2,730
+209 The period of construction of new apartments.
+210 The given share is the share of unoccupied dwellings in the total number in the urban area.
+Table 16. Housing characteristics according to their population density
+Source: SORS, 2004b; SORS, 2014c
+C H A P T E R 9
+Jelisaveta Petrović
+Environment, Climate Change
+and Depopulation in Serbia
+206
+C H A P T E R 9
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+Climate change is one of the biggest societal challenges today (IPCC,
+2021). Climate change in a broader sense is considered to be a conse-
+quence of complex abiotic and biotic processes and is reflected in
+statistically significant changes in climatic parameters over longer
+periods of time. Factors driving climate change are divided between
+anthropogenic (human induced) and non-anthropogenic such as
+astronomical, geophysical, and biotical. However, today climate
+change usually means changes that occur as a consequence of human
+activities, that is, climate change in the narrower sense. Article 1 of the
+United Nations Framework Convention on Climate Change (UN-
+FCCC, 1992) defines climate change as “a change of climate which is
+attributed directly or ind

@@ -1,0 +1,62 @@
+retation of the “push and pull” migration theory
+(Fassmann & Reeger, 2012), has been used to develop the long-term
+hypothesis of international migration, while the assumption of inter-
+nal migration has been grounded in the analysis of the urbanisation
+process in Serbia (see Antonić, 2021).
+2.1.1	 Baseline fertility assumption
+Fertility assumption in the baseline scenario has been resulted from
+the application of the UN model. Recent research based on the Hu-
+man Development Index suggests that a well-known negative correla-
+tion between economic development and fertility, typical of the entire
+twentieth century, may be reversed. This means that the econom-
+ic progress can lead to higher birth rates in the richest societies and
+thus become a development guideline for all other low fertility pop-
+ulations societies (Myrskylä, Kohler & Billari, 2009; Luci-Greulich &
+Thévenon, 2014). It seems that the mechanism of the UN model could
+be interpreted in that way as it allows each country to reach the target
+total fertility rate that is based on both its own and the experience of
+other low-fertility countries that have experienced fertility recovery.
+Consequently, the model would result in target TFR of 1.53 by 2050
+and 1.67 by 2100 in Southern Europe region (United Nations, 2019b).
+As the current UN model recognises only the territory of Serbia in-
+cluding the region of Kosovo and Metohija, it was necessary to model
+TFR for the territory of Serbia without data for this region. The mod-
+el was adjusted to lower territorial levels (regions and districts) in
+accordance with the available historic data sets. For each district, a
+median of the prediction interval resulting from the UN model was
+taken as the forecast TFR over the projection horizon. In general, the
+target TFR in 2100 for districts with a current TFR below 1.50 would
+be between 1.55 and 1.60, and for those with current TFR above 1.50,
+it would be between 1.70 and 1.80. The UN model has shown that
+districts in eastern Serbia represent the nucleus of low TFR in the
+country, i.e. that the potential for a positive change in this indicator
+is the weakest in this area. A slightly higher forecast of TFR would
+characterise the surrounding districts in the region of Southern and
+Eastern Serbia and certain districts of Vojvodina. According to the
+UN model, the maximum target TFR was projected for western and
+southwestern districts in the region of Šumadija and West Serbia.
+These findings were supported by the results of the spatial autocorre-
+lation analysis with respect to change in TFR between 2002 and 2011
+at the municipal level in Serbia, which suggested that differences in
+economic, historical, and cultural development between sub-regions
+of the country have strongly affected the spatial patterns of fertility
+change (Nikitović et al., 2019).
+2.1.2	 Baseline mortality assumption
+Mortality assumption in the baseline scenario has also resulted from
+the application of the UN model. The same procedure as in the case
+of the hypothesis on fertility was applied. Adjustments were made
+to the input data regarding the coverage of the territory and the cho-
+sen level of its administrative division (districts), while for each dis-
+trict a median of the prediction interval that resulted from the UN
+model was taken as the baseline scenario of life expectancy at birth
+(e0) over the projection horizon. In the initial projection period, the
+short-term effect of the COVID-19 pandemic was taken into account.
+If expressed through e0, first, there was a decrease in this indicator
+compared to the previous period, followed by its relatively rapid re-
+covery immediately after the pandemic ends in accordance with the
+nature of the influence of exogenous factors. An observed decrease in
+e0 was an average 1.55 years during 2020, with an assumed maximum
+decline of 2.5 years during the expected time-span of the pandemic
+(about 3 years).
+Depending on the current e0, an increase in this indicator for women
+fr

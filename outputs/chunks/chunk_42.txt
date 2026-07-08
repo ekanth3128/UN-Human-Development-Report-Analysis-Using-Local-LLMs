@@ -1,0 +1,62 @@
+tility rates to replacement
+levels, purely through cash incentives, is prohibitively expensive.
+More fundamentally, what is the goal of fertility policies? Technically,
+replacement fertility is defined as the level of fertility by which one
+46
+C H A P T E R 1
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+generation of women is fully replaced by another. In practical terms
+this is often approximated by a TFR of 2.1 (which is slightly above two
+per woman, to adjust for child mortality and the sex ratio at birth). In
+high mortality settings a replacement fertility rate TFR can even be
+as high as 2.4-2.5, and in very low mortality settings it can be as low as
+below 2.1. But replacement level fertility does not necessarily mean
+that the population size is constant in the longer run. This is only the
+case when the effect of the starting age structure (the momentum of
+population growth) has disappeared and there is no migration and no
+further changes in mortality or life expectancy. Since no real popula-
+tion has these features, replacement fertility is really a very abstract
+concept in the context of stationary population theory – one that has
+escaped the lab of technical demographers and influenced the think-
+ing of many people who do not really understand the implications or
+relying on these measurements which are ill-suited for the features
+of the real world.
+Discussion of fertility indicators –
+which is best to rely on?
+Different fertility indicators can tell very different stories. When try-
+ing to assess the question as to whether fertility levels should be seen
+as too low and whether certain policy measures actually influence
+fertility trends, it is of great importance which indicator is being used.
+Up until the 1980s the most frequently used indicator was also the
+most easily available – CBR, which simply states the number of births
+in a given country divided by the total population of that country. But
+this indicator is unsatisfactory for several reasons, mostly because
+it is greatly dependent on the age structure of a specific population.
+In a country with a high proportion of women in reproductive age,
+the CBR can be higher than in another country with fewer women in
+that age group, even though the number of children per woman might
+actually be higher in the latter. This fact greatly limits the compara-
+bility of CBRs across countries and over time. To avoid this problem,
+the TFR indicator instead uses the sum of all the age-specific fertility
+rates observed in one country in a given calendar year, thus eliminat-
+ing the misleading effect of differing age structures across countries
+and over time.
+The TFR is the currently most frequently used indicator and can be
+interpreted as the mean number of children a cohort of women would
+have if, at a given age, they experience the age-specific fertility rates
+observed in this calendar year. This hypothetical cohort of women is
+sometimes also called a synthetic cohort because in reality, no group
+of women actually pursues such a set of constant fertility rates. But
+more recent research has shown that TFR has another problem, in
+that it is very sensitive to distortions caused by the changing timing of
+fertility (called the “tempo effect”). Specifically, even minor changes
+in the mean childbearing age of have significant impacts on the TFR
+– for example, if 10% of women decide to postpone their births a year
+into the future, the TFR for the current year will be 10% lower, even
+if women have the same number of children by age 45. Meanwhile,
+the mean childbearing age would only increase by a tenth of a year.
+The impact of these timing, or “tempo,” distortions on the TFR indi-
+cator is illustrated in the case of another Eastern European country,
+the Czech Republic in Figure 6 above. While the TFR was rather sta-
+ble, at a comparably high level, until the country’s transformation in
+1990, it entered a precipitous decline, falling

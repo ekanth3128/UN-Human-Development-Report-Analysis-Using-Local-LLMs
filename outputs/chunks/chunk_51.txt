@@ -1,0 +1,115 @@
+!
+!
+Novi Sad
+Beograd
+Kragujevac
+Niš
+Priština
+"
+!
+!
+!
+"
+!
+!
+Novi Sad
+Beograd
+Kragujevac
+Niš
+Priština
+0
+100
+50
+km
+Population density (inh./km2)
+Below 25
+From 25
+to 50
+Kosovo and
+Metohija
+From 55
+to 100
+From 100
+to 1000
+Above 1000
+Incomplete
+coverage
+NUTS 2
+region
+City over
+1,000,000 inh.
+Cities over
+100,000 inh.
+Population change (%)
+Below -20
+From -20
+to -10
+Kosovo and
+Metohija
+From -10
+to 0
+From 0
+to 10
+Above 10
+Incomplete
+coverage
+NUTS 2
+region
+City over
+1,000,000 inh.
+Cities over
+100,000 inh.
+56
+C H A P T E R 2
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+slavia. The two northern regions – Belgrade (coinciding with the cap-
+ital city) and Vojvodina – had a positive rate of population change in
+the 1991-2002 period, while the two southern regions – Šumadija and
+West Serbia (ŠWS) and South and East Serbia (SES) – had a negative
+rate. The majority of the growth in the north was provided by the mi-
+gration inflow, particularly in the region of Vojvodina where about 48
+percent of the refugees from the former Yugoslav republics settled
+down by the end of the 1990s (Lukić & Nikitović, 2004; Nikitović &
+Lukić, 2010).
+The Belgrade region was the only one with a positive rate of popula-
+tion change in the country between the last two census years – 2002
+and 2011. This was exclusively a result of a positive balance of internal
+migration induced by the attractiveness of the Belgrade metropolitan
+area (Nikitović et al., 2015). However, the intra-regional divergences
+across municipalities in this region, particularly between the central
+and peripheral ones, are also evident (Fig. 3b). Indeed, a closer in-
+spection at the subregional level of the country points to only several
+“islands” that experienced an increase in total population between
+the census years of 2002 and 2011. Those are the largest cities in the
+country, which are the centres of the NUTS 2 regions,10 the municipal-
+ities in the southwest, predominantly populated by Bosniaks – one of
+the few ethnic groups in the country whose total fertility rate (TFR)11
+is still well above the replacement level (Rašević 2015), and a munic-
+ipality with the largest share of internally displaced persons from the
+region of Kosovo12 and Metohija (Nikitović et al., 2015). The highest
+growth (above 10 percent) refers to the municipalities of the Belgrade
+region, the centre of the Vojvodina region (Novi Sad), and Novi Pazar,
+the largest municipality of the Bosniaks’ ethnic community (Fig. 3b).
+The cities of Belgrade and Novi Sad are home to the country’s ma-
+jor universities. Moreover, the two cities are financial, administra-
+tive, economic and cultural centres, which have been coupling in the
+country’s unique fast-growing metropolitan area (see Antonić, 2021)
+The continuous internal migration from the highlands to the low-
+lands, or from the south to the north, during the last seven decades
+also induced a sex imbalance of the population at the prime repro-
+ductive ages at settlement level of the country. Generally, regions
+having more men than women aged 20-39 years are poor, agrarian,
+mountainous and mainly border, while areas populated by more
+women than men of the same age group are predominantly urban
+and lowland (Nikitović, 2016a).
+1.2  Population ageing
+Like almost all the European countries, Serbia is experiencing popu-
+lation ageing as a result of below replacement fertility and increasing
+life expectancy (Kupiszewski et al., 2012). This process has been re-
+cently supported by an increasing trend of emigration coupled with
+returning of retired baby boomers from abroad (Nikitović, 2019). The
+rise in the median age of the population is a long-term trend that be-
+gan several decades ago and is manifested in the growing trend of the
+older (aged 65 and over) and an declining trend of the working-age
+population. According to the common indicators of population age-
+ing, Serbia is about or slightly above the EU-27 average in 2019, wit

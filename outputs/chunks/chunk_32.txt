@@ -1,0 +1,61 @@
+calculated
+as extreme cases for sensitivity analysis) with otherwise equal as-
+sumptions on future fertility and mortality trajectories.
+In the “medium assumptions” scenario, in- and out-migration rates
+are assumed to be constant at the levels observed over the past dec-
+ades, but when the population base to which these constant rates are
+applied diminishes over time, this has a compounding effect and also
+results in declining absolute numbers of emigrants. This constant mi-
+gration rate assumption is combined with relatively constant future
+fertility at 1.6 children per woman in Serbia, and slowly improving
+mortality conditions, similar to conditions in other European coun-
+tries. Under this “medium assumptions” scenario the population of
+Serbia reaches 5.35M by 2050, or 28% less than the population today
+in 2020. This middle-of-the-road “medium assumptions” scenario
+future falls between the “zero migration” scenario (resulting in a pro-
+jected 5.87M in population by 2050) and the “double migration rates”
+scenario (resulting in a projected 4.89M in population by 2050).
+Populations Aging Ahead
+In all cases modelled, the proportion of the population above age 65
+in Serbia will be higher than today, growing from approximately 21%
+in 2015 to 31% by 2050 in the “medium assumptions” scenario. These
+ageing trends are largely set. In the purely theoretical case where (i)
+fertility would immediately increase by 50 percent – which would
+bring it closer to the current desired family size (Živković et al., 2017)
+– and (ii) there would be no (zero) migration, the rate of population
+ageing could be slowed by more than half. The increase in the average
+age would only reach 24% of the population being above the age of
+65 by 2050, mostly due to the change in birth rate (Lutz et al., 2019).
+As described above, population ageing in Serbia is inevitable to some
+degree regardless of the fertility or migration scenario, and is a prod-
+uct not only of past low fertility and high out-migration, as reflect-
+ed in the current age structure of the country, but also successes in
+extending longevity. According to UN data, life expectancy at birth
+(for both sexes together) in Serbia has increased from 66.7 years in
+1956-70 to 75.8 years in 2015-20, thus increasing life expectancy in
+the country by over 9 extra years of life in the last five decades (UN,
+2019). But population ageing does not necessarily mean a growth in
+dependency if social policies like retirement are flexible and incentiv-
+ise labour force participation, even in older years. Serbia’s education-
+al attainment, a proxy for the skills and adaptability of a population, is
+expected to grow, with the proportion of people holding post-second-
+ary training or university degrees rising from 21% in 2015 to nearly
+33% by 2050 if trends continue.
+Actually, this improvement in the educational attainment of the adult
+population is a near certainty: in Serbia – like in almost every other
+country – the younger cohorts are better educated than the older
+ones. As those better educated cohorts move up the age pyramids
+and the older, less-educated pass away (a process called demographic
+metabolism) the average education of the population improves, even
+if there would be some stagnation in the expansion of schooling and
+a country’s education strategy. For example, if the COVID-19 crisis
+would cause a serious interruption of the schooling system and that
+would lead to lower learning outcomes over 1-2 years, this new trend
+– if it cannot be compensated for while children are still of school age
+– would only translate into a slower increase (rather than a stagnation
+or a decrease) in human capital for the working age population, as it
+would slow but not overcome or reverse the broader momentum of
+educational attainment in Serbia.
+A recent analysis in the trends of mean years of schooling (“MYS”)
+and skills-adjusted mean years of schooling (“SAMYS”) of the work-
+ing age population for all countries in the world 

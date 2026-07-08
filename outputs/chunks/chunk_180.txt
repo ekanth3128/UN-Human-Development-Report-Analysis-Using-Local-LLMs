@@ -1,0 +1,63 @@
+lopment in Response to Demographic Change
+Population ageing and high public expenditure on pensions, com-
+prising the largest single expenditure item within the social sector,
+prompted numerous public pension system reforms in developed
+countries. Reforms are predominantly geared towards reducing
+pension generosity in relative terms, strengthening the link between
+benefit amounts and pre-retirement earnings, restricting early retire-
+ment options and promoting postponement of labour market exit
+as far as possible. Introducing an automatic balancing mechanism,
+sustainability factor, or automatic link between the retirement age
+and life expectancy is considered an especially relevant aspect of re-
+forms. Although public schemes continue to provide a vast majority
+of pension income, there is a discernible trend towards privatisation
+and rising importance of providing part of pensions within the pri-
+vate sector. Since 2015, measures to improve pension adequacy have
+gained relevance in the EU (OECD, 2019; European Commission,
+2018; Carone et al., 2016). During the COVID-19 crisis, the focus of
+interventions has been on the reduction of contributions or exemp-
+tion from the payment thereof for specific insured categories, addi-
+tional investments in pension funds and benefit increases, especially
+for the more vulnerable pensioners (Natali, 2020).
+In the EU, reforms are deemed to have ensured system stabilisation,
+accompanied by sustaining the ratio of public pension expenditure to
+the GDP at the same level by 2070, partly at the expense of decreas-
+ing relative benefit amounts, which raises the issue of their adequacy,
+especially in some countries (EPC-SPC, 2020).
+2.1  Outline of the Serbian system
+The Serbian pension system comprises mandatory pay-as-you-go
+(PAYG) pension and disability insurance (PDI) and voluntary private
+pension insurance. The total number of old-age, disability and survi-
+vor pensioners in the public sector has reached almost 1.7 million, or
+over 24% of the total population. The ratio of pension expenditure to
+the GDP stood at approximately 10.1% in 2019 and was below the EU-
+28 average (12.4% in 2018) (Eurostat, code spr_exp_pens).
+Finance for pensions and other entitlements under PDI is provided
+from the budget as well, to cover the deficit and fulfill the legal ob-
+ligations (benefit top-up to the minimum pension level, accelerated
+benefits, etc.). The amount of budget funds required decreased over
+time and stood at 3% of the GDP in 2019, i.e. about 25% of the total
+revenues of the Fund (Republički fond za penzijsko i invalidsko osi-
+guranje, 2019) (Vlada Republike Srbije, 2018). The PDI contribution
+rate is 25.5%, which is relatively high, but is not directly international-
+ly comparable owing to differences in system design, in entitlements
+covered from these funds in different countries, and in the level of
+funds secured from the national budget.131
+Pension adequacy in Serbia is on the decline. According to 2019 data,
+the net replacement rate stood at 61.3% (Matković & Stanić, 2020),
+and the aggregate replacement ratio at 42% (the respective EU-28 val-
+ues exceed 63% and 57%) (OECD, 2021; Eurostat, code ilc_pnp3).132
+The number of insured persons per 100 pensioners is only 130, signif-
+icantly below the EU-28 average (169) (Republički fond za penzijsko
+i invalidsko osiguranje, 2020) (European Commission, 2018). Such a
+low rate is not mainly the result of demographic aging. Compared to
+more developed countries, Serbia has considerable space for improv-
+ing the insured-to-pensioner ratio, given the low employment rate
+and widespread informal economy (Vlada Republike Srbije, 2018).
+An IMF report places Serbia among countries with substantial scope
+for increasing labour force participation rate and argues that, if pol-
+icies geared toward that end were implemented, the public pension
+expenditure would be curbed (Batog et al., 2019:20-26).
+2.2  Options for further parametric
+changes
+2.2.1	 Pension and general

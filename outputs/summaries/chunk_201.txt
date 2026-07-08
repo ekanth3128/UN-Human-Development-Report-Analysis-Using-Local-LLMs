@@ -1,0 +1,5 @@
+Maintaining a concise summary within 100 words requires focusing on critical details such as important statistics, policy recommendations from the UN Human Development Report (HDR) section of Serbia for 2022 without adding personal opinions. Here's an example:
+
+In SERBIA'softraightforward report by SORS in 2020, cities with over 80,000 inhabitants are experiencing population declines except Valjevo (decline of -1.4% since 2011). Most medium-sized Serbian cities show slighter demographic reductions, pointing to centralization and urban development largely influenced by national or provincial levels – an indication for tailored policy interventions. The HDR suggests urgent fiscal measures including incentivizing local economic growth through tax relief programs aimed at small enterprises and bolstering investments in social infrastructure, particularly targeting youth engagement to counterbalance demographic shifts toward depopulation of urban centers (SORS 2020).
+
+References: SORS. (2020). Serbia Human Development Report - SERBIA. UN Economic and Social Council for Europe Regional Office, United Nations ESCWA Secretariat at the request of UNDP.

@@ -1,0 +1,205 @@
+ium
+Medium
+SSP5
+High fertility group
+Low
+Low
+High
+Low fertility group
+Low
+Low
+High
+Rich - OECD
+High
+Low
+High
+Table 1. Demographic Components with Regard to Shared Socio-economic Pathways Scenarios
+Adapted from: KC & Lutz, 2017: 184
+Within the framework developed by KC and Lutz (2017), Serbia be-
+longs to the Low Fertility group (Table 1).
+In population projections the starting point and the most important
+piece of information is the total size of the population (Graph 1). Four
+out of five projections envision a significant population decline in Ser-
+bia by the end of the century. The only exception is the SSP3 scenario
+(regional rivalry) characterised by high fertility and significantly re-
+stricted movement of the people.
+In the SSP1 scenario in which the sustainability path is selected, the
+population of Serbia (with Kosovo229 and Metohija) will start to decline
+sharply after 2050, reaching the level of around 6 million at the end of
+the century. SSP1 envisions low fertility and mortality rates combined
+with medium migrations, which means that the migration component
+will be the leading factor of the depopulation process in Serbia.
+The “Middle of the road”, SSP2 scenario predicts population decline
+after 2060, but not as sharp as in the previous case, whereby the pop-
+ulation Will number close to 7.7 million at the end of the century. The
+SSP2 scenario Provides for medium levels of fertility, mortality and
+migration in Serbia, keeping the total number of people more stable
+than in the SSP1 scenario.
+In the SSP3 scenario, characterised by rising nationalism, closing of
+borders and competition between the nations, migrations are project-
+229 References to Kosovo shall be understood to be in the context of Security Council resolution 1244 (1999).
+Graph 1. Population Change According to SSP Scenarios
+Source: https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=30
+(accessed 14/11/21)
+5.5
+1975
+2000
+2025
+2050
+2075
+2100
+6.5
+7.5
+8.5
+9.5
+10.5
+SSP1
+SSP2
+SSP3
+SSP4
+SSP5
+Hist
+Population in millions – Serbia (1965-2100)
+217
+C H A P T E R 9
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+ed as low (combined with a rather high level of fertility and mortal-
+ity), which will lead to a slight increase in the population to around
+10.1 million. However, the increase in the number of people is due to
+their limited movement and comes about in an unfavourable context
+of a high mortality rate and international rivalry and conflicts.
+The SSP4 model predicts the sharpest decline in the total number of peo-
+ple in Serbia (less than 6 million in 2100). This will be the result of low
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90-94
+95-99
+400
+300
+200
+100
+0
+100
+200
+300
+400
+100+
+Age
+Males
+Females
+Serbia - 2010
+Population in thousands
+400
+300
+200
+100
+0
+100
+200
+300
+400
+Males
+Females
+Serbia - 2050 SSP1
+Population in thousands
+400
+300
+200
+100
+0
+100
+200
+300
+400
+Males
+Females
+Serbia - 2050 SSP2
+Population in thousands
+0-4
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90-94
+95-99
+400
+300
+200
+100
+0
+100
+200
+300
+400
+100+
+Age
+Males
+Females
+Serbia - 2050 SSP3
+Population in thousands
+400
+300
+200
+100
+0
+100
+200
+300
+400
+Males
+Females
+Serbia - 2050 SSP4
+Population in thousands
+400
+300
+200
+100
+0
+100
+200
+300
+400
+Males
+Females
+Serbia - 2050 SSP5
+Population in thousands
+Tertiary
+Secondary
+Primary
+No education
+Figures 7.1–7.6  Population pyramid projections in accordance to the SSP scenarios, Serbia 2010 - 2050
+Source: https://tntcat.iiasa.ac.at/SspDb/dsd?Action=htmlpage&page=30 (accessed 14/11/21)
+fertility and medium mortality and migration. The entire context will
+be characterised by pronounced social inequalities, low social cohesion,
+low technological development, and the neglect of the environment.
+Finally, the SSP5 scenario, which is the most pessimistic in terms of
+climate, envisions a population d

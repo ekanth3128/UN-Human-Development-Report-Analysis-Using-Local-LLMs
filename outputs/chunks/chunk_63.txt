@@ -1,0 +1,74 @@
+and the other consisting al-
+most completely of their descendants resulting from the projection
+assumptions applied to current population pyramid. In this way, it is
+possible to fully perceive the effects of fertility change, which is the
+crucial long-term factor of population change.
+Official estimates of the Serbia’s population by sex and single age
+groups at the district level as of 31 December 2020 were taken as the
+basis for calculating the initial age and sex population structure in
+the projection (SORS, 2021a). These estimates are based on the 2011
+census and the subsequent changes of the population structure that
+have been induced by births, deaths and internal migration between
+the census day and the end of 2020. Given that the estimates thus ob-
+tained did not include the impact of international migration, which
+is particularly important for high emigration areas, it was necessary
+to correct them by including the previously stated assessment of the
+balance of international migration between 30 September 2011 (the
+Census Day) and 31 December 2020.
+2  Scenarios of Population Dynamics – Future
+Fertility, Mortality, and Migration
+The three scenarios of future population dynamics in Serbia are as
+follows: a) baseline scenario – the most probable future excluding
+any consideration of specific policy impacts; b) high fertility scenar-
+io – reflecting a fully successful implementation of policies aimed at
+increasing birth numbers; c) zero migration scenario – an imaginary
+future of zero net migration as a reference case for assessing the mi-
+gration effect (Table 4). All three scenarios share the same assump-
+tion on future mortality because of the relatively stable change in this
+component,24 and because of the focus of this chapter on the depop-
+ulation in Serbia – largely caused by a long period of low fertility and
+net emigration. This allows to assess the effects of fertility and migra-
+tion independently of each other by comparing the b) and c) scenario
+with the baseline one.
+24 The short-term effect of the COVID-19 pandemic has been considered (see 2.1.2).
+25 Non-commercial software was used for all projection-related calculations. Probabilistic simulations of trajectories of TFR and e0, as a tool for formulating the baseline
+fertility and mortality scenarios, were performed using R and its packages bayesTFR (Ševčíková et al. 2015) and bayesLife (Ševčíková and Raftery 2015). Projections of the
+population by age and sex at the district level in Serbia were calculated using Spectrum.
+Scenario
+Fertility
+Mortality
+Migration
+Baseline
+Baseline
+Baseline
+Baseline
+High fertility
+High fertility
+Baseline
+Baseline
+Zero migration
+Baseline
+Baseline
+Zero migration
+Table 4. Assumptions in the population dynamic scenarios in Serbia,
+2020-2100
+2.1  Baseline scenario
+The baseline scenario assumes a relatively small increase in future fer-
+tility and slowly improving survival rates. When formulating assump-
+tions on the natural components of population change, we relied on
+the probabilistic models used to produce the current World Population
+Prospects by the United Nations’ Population Division (hereinafter: the
+UN model)25 (United Nations, 2019a), thus avoiding subjective judg-
+ment typical for the scenario approach. The future paths of total fer-
+tility rate in the baseline scenario and life expectancy at birth in all
+scenarios represent the most likely trajectories from their prediction
+intervals derived by running the UN model.  Given the limited quality
+and availability of time series on migration and far greater uncertain-
+ty about their future trends, especially at the sub-national level and in
+the longer term, compared to the natural components of population
+change (births and deaths), only one pathway of future migration is
+66
+C H A P T E R 2
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+formulated. A theoretical concept called “migration cycle model”,
+as a specific interp

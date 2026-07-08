@@ -1,0 +1,418 @@
+.2
+23.5
+26.4
+25.6
+1.09
+1.27
+1.41
+1.32
+0.36
+0.41
+0.48
+0.47
+0.68
+0.72
+0.82
+0.82
+South Bačka district
+18.7
+20.5
+24.3
+22.2
+0.90
+1.01
+1.23
+1.03
+0.31
+0.35
+0.43
+0.39
+0.65
+0.69
+0.79
+0.78
+North Banat district
+21.4
+24.1
+26.8
+26.8
+1.16
+1.35
+1.53
+1.44
+0.36
+0.42
+0.48
+0.49
+0.66
+0.72
+0.80
+0.83
+North Bačka district
+20.4
+22.7
+25.6
+24.0
+1.07
+1.19
+1.36
+1.18
+0.34
+0.39
+0.46
+0.43
+0.65
+0.72
+0.80
+0.79
+Central Banat district
+21.4
+25.0
+27.8
+28.3
+1.11
+1.35
+1.53
+1.50
+0.36
+0.44
+0.52
+0.53
+0.69
+0.77
+0.85
+0.89
+Srem district
+20.9
+24.4
+26.5
+24.0
+1.09
+1.31
+1.40
+1.17
+0.35
+0.43
+0.49
+0.43
+0.67
+0.76
+0.83
+0.80
+Zlatibor district
+22.8
+29.4
+33.2
+36.2
+1.19
+1.64
+1.91
+2.29
+0.39
+0.56
+0.67
+0.75
+0.72
+0.90
+1.02
+1.08
+Kolubara district
+22.9
+27.3
+29.5
+24.6
+1.26
+1.54
+1.65
+1.20
+0.39
+0.50
+0.56
+0.45
+0.70
+0.82
+0.90
+0.82
+Mačva district
+21.5
+26.8
+30.1
+29.5
+1.11
+1.47
+1.65
+1.58
+0.36
+0.49
+0.58
+0.57
+0.69
+0.82
+0.94
+0.93
+Moravica district
+23.7
+27.1
+29.6
+24.1
+1.27
+1.46
+1.59
+1.12
+0.41
+0.50
+0.57
+0.44
+0.74
+0.84
+0.93
+0.83
+Pomoravlje district
+24.9
+26.6
+29.0
+26.5
+1.41
+1.61
+1.72
+1.40
+0.43
+0.47
+0.53
+0.49
+0.74
+0.76
+0.85
+0.83
+Rasina district
+24.9
+28.6
+33.6
+34.5
+1.41
+1.76
+2.13
+2.18
+0.44
+0.52
+0.66
+0.69
+0.74
+0.82
+0.97
+1.01
+Raška district
+17.7
+20.6
+24.1
+23.8
+0.73
+0.94
+1.13
+1.09
+0.31
+0.36
+0.44
+0.44
+0.73
+0.74
+0.83
+0.84
+Šumadija district
+22.5
+24.7
+27.4
+23.8
+1.21
+1.42
+1.55
+1.20
+0.38
+0.43
+0.50
+0.42
+0.70
+0.73
+0.82
+0.77
+Bor district
+25.9
+30.9
+37.6
+75.8
+1.56
+2.18
+2.91
+-
+0.45
+0.56
+0.76
+3.13
+0.74
+0.82
+1.02
+3.13
+Braničevo district
+25.3
+27.3
+32.3
+35.0
+1.44
+1.71
+2.14
+2.28
+0.44
+0.48
+0.61
+0.71
+0.75
+0.76
+0.90
+1.02
+Zaječar district
+29.3
+29.6
+32.9
+28.0
+1.88
+2.06
+2.18
+1.54
+0.53
+0.53
+0.63
+0.52
+0.81
+0.79
+0.93
+0.86
+Jablanica district
+22.1
+26.0
+30.8
+38.9
+1.17
+1.50
+1.95
+2.85
+0.37
+0.46
+0.58
+0.82
+0.69
+0.76
+0.87
+1.11
+Nišava district
+22.8
+23.5
+26.4
+22.6
+1.24
+1.25
+1.43
+1.08
+0.39
+0.41
+0.48
+0.40
+0.70
+0.73
+0.81
+0.77
+Pirot district
+26.6
+29.4
+33.1
+35.8
+1.64
+1.85
+2.17
+2.43
+0.47
+0.54
+0.64
+0.72
+0.75
+0.83
+0.93
+1.02
+Podunavlje district
+22.3
+25.9
+31.0
+37.0
+1.18
+1.52
+1.90
+2.57
+0.38
+0.46
+0.59
+0.76
+0.70
+0.75
+0.90
+1.06
+Pčinja district
+16.4
+22.4
+27.5
+35.3
+0.74
+1.14
+1.62
+2.17
+0.27
+0.39
+0.50
+0.73
+0.62
+0.72
+0.80
+1.06
+Toplica district
+23.4
+25.9
+28.9
+35.0
+1.21
+1.34
+1.60
+2.10
+0.41
+0.47
+0.55
+0.73
+0.75
+0.83
+0.89
+1.07
+Table 6. Indicators of population ageing across regions and districts of Serbia, 2020-2100, baseline scenario
+Source: own calculations
+71
+C H A P T E R 2
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+3.2	 Between desirable and
+fictional future – high fertility and
+zero-migration scenarios
+The distinction in terms of the forecast demographic indicators between
+the North and South of Serbia, which have been noticeable already ac-
+cording to the baseline scenario, is clearly pronounced in the projection
+results of the high fertility scenario. This is the only of the three present-
+ed scenarios in this chapter that forecasts an increase in total popula-
+tion (Figure 6), though only after 2080 on account of the decades-long
+period of increase in total fertility rate that in most districts would reach
+around 2 by 2050 and even replacement level by 2100.
+Slower decreasing trend of the total population by 2050 is clearly pro-
+nounced only in districts with the largest city centres if compared to
+the baseline scenario. Even though the decrease would slow down in
+most districts after 2050 due to the decades-long period of forecast
+high total fertility rate (close or at the replacement level), the only two
+districts that would have larger population than today would be those
+whose centres are Belgrade (by 19.2%) and Novi Sad (11.3%). This
+suggests a very clear conclusion: the unlikely future from the current de-
+mographic viewpoint, which assumes a fairly fast increase in total fertility
+rate in the next 30 years followed by a half-century period of stable high
+fertility (which allows  one generation of women to be fully replaced by an-
+other) would not stop the decrease in total population at the c

@@ -1,0 +1,62 @@
+rlapping strategies: the Strategy for the Develop-
+ment of Artificial Intelligence 2020-2025, Strategy for the Develop-
+ment of Digital Skills 2020-2024, and the Strategy for the Develop-
+ment of Education to 2030. These strategies are based on the EU
+Digital Education Action Plan, and the first experiences with COVID
+19 lockdown in Serbia, and provide for digitalization in education
+as an important objective. The strategies encompass, in somewhat
+fragmented fashion, several broad measures, that are, however,
+more oriented towards informatics as an education subject or ed-
+ucation track, and on preparing the system for providing online or
+hybrid education for compensatory or emergency purposes (for cer-
+tain target groups such as rural children, dropout prevention, educa-
+tion of children abroad or sick children, etc., as well as in emergency
+situations, such as partial or total school lockdown), than towards
+equipping all students with IT skills to be used in all subject areas
+in order to foster learning focused on IT, teamwork and innovation.
+87 In 2018, approximately 55% of teachers in Europe held an MA degree, while in several countries this percentage was above 75%, i.e. in Finland, Czech Republic, Portugal,
+etc. (TALIS, 2018).
+88 Among countries which have national legislation on school practice, only in Romania is the amount lower (5 ECTS), whereas in other countries, it is 30 or more. Expert
+studies in most countries comprise 60-120 ECTS (Eurydice, 2021).
+134
+C H A P T E R 5
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+It is indicative that Serbia is not monitoring teacher digital compe-
+tencies and student performance, and is not yet participating in the
+International Computer and Information Literacy Survey (ICLIS),
+conducted on a 5-year basis.
+4.2.1  Providing appropriate infrastructure
+– hardware and connectivity
+Infrastructure, in terms of hardware and especially connectivity, has
+advanced in the period from 2012, from 55.2 % of households pos-
+sessing a PC in 2012 to 74.3% in 2020. In 2012, broadband internet
+was available only to 38% of households, while it is now accessible
+to 80.8% of them. Laptops are less frequently found in households –
+52.1% of households in Serbia have laptops. Nevertheless, the average
+percentage covers sizable regional differences, Belgrade being above
+90% on both key indicators, while all other regions except Northern
+Serbia are at around 70-77% on both indicators.
+Connectivity of schools is supported by the Ministry of commerce,
+tourism and telecommunication that has equipped most of the ex-
+isting schools with broadband free of charge internet access, and it
+is expected that all schools will be connected. However, this applies
+only to the main building of schools and not the satellite units, that
+are often in remote rural areas and for which having access to broad-
+band internet would be a game changer. An online survey, conducted
+in 2020 with more than 50.000 teachers, showed that 56.5% com-
+plained about the lack of computers and unstable internet connectiv-
+ity of their schools, while 42.6% pointed to the unavailability of tech-
+nologies for teachers, indicating that the process of equipping schools
+is far from completed (ZUOV, 2021).
+4.2.2	 The need for upgrading teacher
+digital skills and competencies
+Data on teacher digital competencies is not available, but the COV-
+ID-19 school lockdown showed that the vast majority of teachers had
+serious competency gaps and was unable to use synchronous learning
+platforms for conducting instruction. Only 15.6% of teachers report-
+ed substantial experience in using digital technologies for teaching,
+while one third of them listed the lack of digital competences in their
+self-assessment as the main problem during distance education due
+to the emergency situation (ZUOV, 2021).
+However, the IT competency gap in the teaching profession is of such
+scope that it requires thoughtful, sustai

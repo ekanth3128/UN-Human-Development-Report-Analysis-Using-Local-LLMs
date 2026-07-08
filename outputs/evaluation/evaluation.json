@@ -1,0 +1,7 @@
+{
+    "Completeness": 5,
+    "Consistency": 8,
+    "FactualAlignment": 9,
+    "HallucinationRisk": "Low",
+    "Feedback": "The summary provides a concise overview of the report's main findings and recommendations. However, it lacks detailed information and specific data points, which are essential for understanding the complex demographic dynamics and policy implications discussed in the original text."
+}

@@ -1,0 +1,63 @@
+t stocks
+and flows
+Most discussions on migration start with numbers. Producing reliable
+numbers, however, is an extremely complex task; understanding and
+interpreting these numbers is often even more difficult. Definitions,
+concepts and administrative and survey practices related to migrant
+stocks and flows vary across countries in ways that make full inter-
+national harmonization impossible. Because we live in the world of
+sovereign states, it is easier for a country to account for immigrants
+residing within its borders than for own current or former citizens
+beyond its reach. Thus, sending countries face more difficulties in
+tracking their emigrants than destination countries in counting their
+immigrants. To make things worse, statistical capacity in typically low
+or middle income emigration countries is lower than in high income
+countries where most immigrants go.  For these reasons, the best strat-
+egy for an emigration country is to collect data on its own emigrants
+from the immigration statistics of destination countries. Unfortu-
+nately, due to historical factors and its geographical position, Serbia
+is among the countries with the highest dispersion of its emigrants,
+which complicates the task of assembling the data from all important
+destination countries.
+Countries use different concepts, definitions and data collection meth-
+odologies to compile statistics on migration flows. Definitions of who
+counts as an international migrant vary over time in the same country
+and across countries. The United Nations Recommendations on Sta-
+tistics of International Migration defines an ‘international migrants’ as
+any person who has changed his or her country of usual residence (UN
+DESA, 2012), distinguishing between ‘short-term migrants’ (those
+who have changed their countries of usual residence for at least three
+months, but less than one year) and ‘long-term migrants’ (those who
+have done so for at least one year). However, some countries use dif-
+ferent criteria to identify international migrants. Differences in con-
+cepts and definitions, as well as data collection methodologies, hinder
+full international comparability. An implicit assumption is that they do
+not systematically change over time.
+2  Migration Trends
+51 UN DESA (Odeljenje Ujedinjenih nacija za ekonomska i socijalna pitanja), 2012.
+This dominantly alarmist tone has also significantly influenced the
+government’s policies toward migration. Catastrophic discourse
+eventually translates into policy thinking that something radical has
+to be done fast, before it is too late. For example, in 2019 first draft
+version of Strategy on economic migration (adopted eventually in
+2020 as a more balanced document) focused almost entirely on ways
+to prevent and revert the brain drain – without really establishing
+the facts on its size and characteristics. In late 2019, even before the
+adoption of the Strategy, specific measures were legislated providing
+very generous tax reductions for high-skilled high-earning returnees.
+In the same fashion, a new measure of waiving the payment of Annu-
+al Personal Income Tax (levied at very modest rates on some 1% of
+top income earners) for those under the age of 40 was marketed as a
+brain drain prevention measure.
+Most of the pieces of migration diagnostics floating in the public
+sphere are superficial and often misleading. This does not mean that
+there is no reason to worry about emigration. But it is important to get
+the facts right, and as one digs more into migration statistics, murky
+and incomplete as it is, a more ambiguous and extremely complex
+picture gradually emerges. This chapter in the first place attempts to
+make sense of the data.
+We focus on the analysis of emigrant stocks and (gross) outflows from
+Serbia, with the descriptive quantitative analysis covering primarily Eu-
+ropean destination countries for which there is available harmonized
+Eurostat statistics. They comprise at least two thirds of total Serbian
+emigration and are b

@@ -1,0 +1,99 @@
+ further strengthens our finding that large
+and growing part of Serbian emigration is of NELM-type. Serbs mi-
+grate more often as workers than as people.
+Graph 1. Volume of remittances compared with the GDP, 2010-2020
+Source: World Bank
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+The brain drain, an ugly expression that has unfortunately entered sci-
+entific jargon on migration, in conventional use, means simply the em-
+igration of highly trained or qualified people from a particular country.
+More technically, the brain drain happens only if the educational struc-
+ture of emigrants (’movers’) is better than the educational structure of
+’stayers’ (inclusive of returnees and immigrants). The comparisons can
+be made in shares of three broad educational groups (low-skill, medi-
+um-skill and high-skill) or in average years of schooling.
+However, there are no directly available data to assess what happened
+with these relationships for Serbian movers and stayers in the past 10
+years. Standard annual statistics do not provide information on educa-
+tional structure of immigrants. There is a special brain drain database
+created by the German Institute for Employment Research (IAB), com-
+prising data on immigrants by nationality based on population census-
+es in 20 leading OECD countries, but the latest data in it are from 2010.
+In 2010, despite some modest evidence of the over-representation of
+high-skilled emigrants, Serbia fared better in that regard than most
+other sending countries in the database. The emigration rate of Ser-
+bian high-skilled workers was well below average for its size and in-
+come group (Kerr, 2016). Nevertheless, this database did not attract
+attention of migration researchers in Serbia even when it was up-to-
+date, and the adopted view of Serbia as one of the countries with the
+highest brain drain was never challenged on that ground.
+It is possible to adopt at least two different strategies to indirectly assess
+what happened with the skills structure of Serbian net migration since
+2010. The first is based on national labour force statistics, and the second
+one on international migration statistics. We draw on work of Leitner
+and Arandarenko to present these complementary yet methodologically
+6  Skill Structure of Serbian Emigrants:
+Dissecting the Brain Drain Narrative
+111
+C H A P T E R 4
+National Human Development Report – Serbia 2022  •  Human Development in Response to Demographic Change
+Graph 2. Cumulative net-migration flows by age cohort and educational
+attainment level, 2015–2019
+Source: Leitner (2021), calculations based on the LFS data of Serbia
+(ETF-wiiw, 2021).
+-60,00
+-40,00
+Newcomers
+-20,00
+20,00
+40,00
+0
+Cohort
+15-19
+Cohort
+20-24
+Cohort
+25-29
+Cohort
+30-34
+Cohort
+35-39
+Low
+Med-VET
+Med-GEN
+High
+completely different approaches (Leitner, 2021a; Arandarenko, 2021).
+The former strategy, adopted by Leitner (2021), presented also in Aran-
+darenko (2021) involves approximating the net migration calculating
+the size and skill structure of age cohorts over time using the data from
+consecutive Serbian Labour Force Surveys. The idea is that both chang-
+es in size as well as in educational structure of the migration-prone age
+cohorts 15-39 years of age can be ascribed to net migration, assuming
+that the mortality rates for these age groups are negligible.
+Leitner’s analysis starts in 2015, looking at the cohorts who were 15-
+39 years of age in 2010, pooled in 5-year brackets to get more stable
+estimates. In 2015, the first year of the analysis, each cohort has al-
+ready aged by 5 years and aged by another 4 years until 2019. Educa-
+tional levels are divided into four categories: low (primary or lower
+secondary education), medium general (upper secondary general ed-
+ucation/gymnasium), medium VET (upper secondary vocational ed-
+ucation and training), and high (tertiary education), based on ISCED.
+Expectedly, overall net migration balance for working-age people be-
+low 40 with

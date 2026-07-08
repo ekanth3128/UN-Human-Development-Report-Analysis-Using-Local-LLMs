@@ -1,0 +1,56 @@
+196 This nomenclature is part of the EU geocoding standard. It is also known by its French acronym NUTS (Fr. nomenclature des unités territoriales statistiques), and in
+Serbia the acronym NSTJ (nomenklatura statističkih teritorijalnih jedinica) is used. There are officially five NUTS2 regions in Serbia, but there are no data for the region
+of Kosovo and Metohija (under UN Resolution 1244).
+197This is indirectly related to the issue of densities in spatial development, i.e. at the regional level, where the general rule is that higher population densities, as well as the
+higher network of cities, settlements and gathering hubs, are more favourable for development, because they help reduce distances, and, usually, also costs.
+the circulation of goods, as well as the establishment of common
+public transport lines, which significantly increases the networking
+on both sides of the border.
+According to earlier findings, the proximity of the state border consid-
+erably affects the rate of urban decline in Serbia, so cities closer to the
+border are usually in considerable shrinkage (Djukić et al., 2017). This
+has been confirmed at the European level, where the border areas, i.e.
+areas up to 25 kilometres from the nearest state border, are considered
+more at risk in terms of development (EUSTAT, 2018). If the 25-kilo-
+metre threshold were to be applied to Serbia, almost half of Serbian
+cities would be borderline due to the size of the country and relative-
+ly long borders, which would not give a clear enough distinction be-
+tween the cities themselves. Therefore, the categorisation was done
+at 12 kilometres, looking at the distance of the surveyed cities from the
+nearest state border.192
+By placing the obtained categories in relation to the decline or growth
+of the urban population (Fig. 6), the difference in influence between
+the old and new borders is noted first.193 Cities closer to the old bor-
+ders, i.e. borders established after 1918 with Hungary, Romania and
+Bulgaria, were particularly affected by urban shrinkage. Of the four
+cities with a population decline of over 5%, as many as three are clos-
+est to the border tripoints with these countries: Bor (RS/BG/RO),
+Kikinda (RS/HU/RO) and Sombor (RS/HR/HU). Loznica, which is
+the only other city belonging to this group, is not close to three bor-
+ders, but it is a city whose centre is closest to the state border – only 3
+km from the border of Serbia with Bosnia-Herzegovina. On the other
+side are the cities on the Novi Sad-Belgrade-Niš central state axis and
+along the West Morava, further away from the border and most with
+demographic growth. In line with this, it can be concluded that the
+negative impact of the city’s proximity to the state border is not only
+spatial, but also temporal, since the given boundary was established.
+The research can also indicate the favourable influence of border po-
+rosity194 for cities closer to the borders of Serbia with Bosnia-Herzego-
+vina, Montenegro and North Macedonia.
+4.8  Position of a city with respect
+to larger cities and in relation to
+urban depopulation
+Most of international research distinguishes between the shrinking of
+larger and smaller cities, where the demographic threshold is mostly
+at 100,000 inhabitants.195 In Serbia, this coincides with the difference
+between the four larger cities – Belgrade, Novi Sad, Niš and Kraguje-
+vac – and medium-sized cities. These four cities are also the unofficial
+centres of the statistical NUTS2 regions of Serbia.196 Medium-sized
+cities in this research are mostly the most important centres of the
+NUTS3 level.
+In the former socialist states, single cities as the most susceptible to
+urban shrinking are, in addition to transport isolation, also cities fur-
+ther away from others, especially larger cities (Restrepo Cadavid et al.,
+2017).197 This means that the impact of the distance of one city from its
+neighbouring cities, and especially from the closest cities of greater
+size and importance, should be redu
